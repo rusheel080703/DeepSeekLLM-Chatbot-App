@@ -126,19 +126,19 @@ Copy code
 
 ### 1️⃣ Clone the Repository
 
-bash
+```bash
 
 git clone https://github.com/<your-username>/DeepSeekLLM-Chatbot.git
 
 cd DeepSeekLLM-Chatbot
 
-
+```
 
 
 
 ### 2️⃣ Backend Setup (Flask)
 
-bash
+```bash
 
 Copy code
 
@@ -162,7 +162,7 @@ Your Flask backend will start on:
 
 🖥 http://localhost:5000
 
-
+```
 
 ### 3️⃣ Frontend Setup (React)
 
@@ -170,7 +170,7 @@ Open a new terminal and run:
 
 
 
-bash
+```bash
 
 Copy code
 
@@ -184,7 +184,7 @@ Your React frontend will run on:
 
 🌐 http://localhost:3000
 
-
+```
 
 ### 4️⃣ Connect Frontend & Backend
 
@@ -192,10 +192,10 @@ Make sure your frontend’s API base URL (in frontend/src/config.js or a similar
 
 
 
-js
+```js
 
 http://localhost:5000
-
+```
 
 
 
