@@ -1,0 +1,5602 @@
+[
+    {
+        "input": "Hi",
+        "output": "Hi! I am your Collection Officer. Can I have your name and account number?"
+    },
+    {
+        "input": "This is Mike",
+        "output": "Thanks, John. Please provide your account number."
+    },
+    {
+        "input": "Here's my number: 67890",
+        "output": "Thank you. Let me check your outstanding balance."
+    },
+    {
+        "input": "How much do I owe?",
+        "output": "You owe $500."
+    },
+    {
+        "input": "Can I schedule a payment for 1st March?",
+        "output": "Confirmed for 20th February 2025."
+    },
+    {
+        "input": "Who won the match yesterday?",
+        "output": "Please ask payment-related questions."
+    },
+    {
+        "input": "Bye",
+        "output": "Goodbye! Switching to general chat mode now."
+    },
+    {
+        "input": "Good afternoon",
+        "output": "Hi! I am your Collection Officer. Can I have your name and account number?"
+    },
+    {
+        "input": "This is Mike",
+        "output": "Thanks, John. Please provide your account number."
+    },
+    {
+        "input": "My account number is 12345",
+        "output": "Thank you. Let me check your outstanding balance."
+    },
+    {
+        "input": "Can you check my balance?",
+        "output": "Your outstanding balance is $320."
+    },
+    {
+        "input": "I want to pay on 20th Feb",
+        "output": "Your payment is scheduled for 1st March."
+    },
+    {
+        "input": "What is the weather today?",
+        "output": "I only assist with financial queries."
+    },
+    {
+        "input": "Bye",
+        "output": "Goodbye! Switching to general chat mode now."
+    },
+    {
+        "input": "Good morning",
+        "output": "Hi! I am your Collection Officer. Can I have your name and account number?"
+    },
+    {
+        "input": "This is Mike",
+        "output": "Thanks, John. Please provide your account number."
+    },
+    {
+        "input": "My account number is 12345",
+        "output": "Got it. Checking your balance now..."
+    },
+    {
+        "input": "How much do I owe?",
+        "output": "You owe $500."
+    },
+    {
+        "input": "I want to pay on 20th Feb",
+        "output": "Confirmed for 20th February 2025."
+    },
+    {
+        "input": "What is the weather today?",
+        "output": "I only assist with financial queries."
+    },
+    {
+        "input": "Bye",
+        "output": "Goodbye! Switching to general chat mode now."
+    },
+    {
+        "input": "Good morning",
+        "output": "Hi! I am your Collection Officer. Can I have your name and account number?"
+    },
+    {
+        "input": "I am Alex",
+        "output": "Thanks, John. Please provide your account number."
+    },
+    {
+        "input": "Here's my number: 67890",
+        "output": "Thank you. Let me check your outstanding balance."
+    },
+    {
+        "input": "What is my due amount?",
+        "output": "Your outstanding balance is $320."
+    },
+    {
+        "input": "I want to pay on 20th Feb",
+        "output": "Confirmed for 20th February 2025."
+    },
+    {
+        "input": "Who won the match yesterday?",
+        "output": "Please ask payment-related questions."
+    },
+    {
+        "input": "See you",
+        "output": "Goodbye! Switching to general chat mode now."
+    },
+    {
+        "input": "Good evening",
+        "output": "Hi! I am your Collection Officer. Can I have your name and account number?"
+    },
+    {
+        "input": "I am Alex",
+        "output": "Thanks, John. Please provide your account number."
+    },
+    {
+        "input": "Here's my number: 67890",
+        "output": "Got it. Checking your balance now..."
+    },
+    {
+        "input": "What is my due amount?",
+        "output": "You owe $500."
+    },
+    {
+        "input": "I want to pay on 20th Feb",
+        "output": "Confirmed for 20th February 2025."
+    },
+    {
+        "input": "What is the weather today?",
+        "output": "I only assist with financial queries."
+    },
+    {
+        "input": "See you",
+        "output": "Goodbye! Switching to general chat mode now."
+    },
+    {
+        "input": "Good morning",
+        "output": "Hi! I am your Collection Officer. Can I have your name and account number?"
+    },
+    {
+        "input": "Call me Sarah",
+        "output": "Thanks, John. Please provide your account number."
+    },
+    {
+        "input": "Here's my number: 67890",
+        "output": "Got it. Checking your balance now..."
+    },
+    {
+        "input": "Can you check my balance?",
+        "output": "You owe $500."
+    },
+    {
+        "input": "Can I schedule a payment for 1st March?",
+        "output": "Confirmed for 20th February 2025."
+    },
+    {
+        "input": "Who won the match yesterday?",
+        "output": "I only assist with financial queries."
+    },
+    {
+        "input": "See you",
+        "output": "Goodbye! Switching to general chat mode now."
+    },
+    {
+        "input": "Good morning",
+        "output": "Hi! I am your Collection Officer. Can I have your name and account number?"
+    },
+    {
+        "input": "I am Alex",
+        "output": "Thanks, John. Please provide your account number."
+    },
+    {
+        "input": "My account number is 12345",
+        "output": "Thank you. Let me check your outstanding balance."
+    },
+    {
+        "input": "What is my due amount?",
+        "output": "You owe $500."
+    },
+    {
+        "input": "Can I schedule a payment for 1st March?",
+        "output": "Confirmed for 20th February 2025."
+    },
+    {
+        "input": "What is the weather today?",
+        "output": "Please ask payment-related questions."
+    },
+    {
+        "input": "Bye",
+        "output": "Goodbye! Switching to general chat mode now."
+    },
+    {
+        "input": "Hey",
+        "output": "Hi! I am your Collection Officer. Can I have your name and account number?"
+    },
+    {
+        "input": "My name is John",
+        "output": "Thanks, John. Please provide your account number."
+    },
+    {
+        "input": "My account number is 12345",
+        "output": "Got it. Checking your balance now..."
+    },
+    {
+        "input": "What is my due amount?",
+        "output": "You owe $500."
+    },
+    {
+        "input": "I want to pay on 20th Feb",
+        "output": "Your payment is scheduled for 1st March."
+    },
+    {
+        "input": "Who won the match yesterday?",
+        "output": "I only assist with financial queries."
+    },
+    {
+        "input": "Bye",
+        "output": "Goodbye! Switching to general chat mode now."
+    },
+    {
+        "input": "Good evening",
+        "output": "Hi! I am your Collection Officer. Can I have your name and account number?"
+    },
+    {
+        "input": "I am Alex",
+        "output": "Thanks, John. Please provide your account number."
+    },
+    {
+        "input": "Here's my number: 67890",
+        "output": "Got it. Checking your balance now..."
+    },
+    {
+        "input": "Can you check my balance?",
+        "output": "You owe $500."
+    },
+    {
+        "input": "I want to pay on 20th Feb",
+        "output": "Your payment is scheduled for 1st March."
+    },
+    {
+        "input": "What is the weather today?",
+        "output": "I only assist with financial queries."
+    },
+    {
+        "input": "See you",
+        "output": "Goodbye! Switching to general chat mode now."
+    },
+    {
+        "input": "Hello",
+        "output": "Hi! I am your Collection Officer. Can I have your name and account number?"
+    },
+    {
+        "input": "This is Mike",
+        "output": "Thanks, John. Please provide your account number."
+    },
+    {
+        "input": "Here's my number: 67890",
+        "output": "Thank you. Let me check your outstanding balance."
+    },
+    {
+        "input": "How much do I owe?",
+        "output": "You owe $500."
+    },
+    {
+        "input": "Can I schedule a payment for 1st March?",
+        "output": "Your payment is scheduled for 1st March."
+    },
+    {
+        "input": "Who won the match yesterday?",
+        "output": "Please ask payment-related questions."
+    },
+    {
+        "input": "Thanks",
+        "output": "Goodbye! Switching to general chat mode now."
+    },
+    {
+        "input": "Good morning",
+        "output": "Hi! I am your Collection Officer. Can I have your name and account number?"
+    },
+    {
+        "input": "My name is John",
+        "output": "Thanks, John. Please provide your account number."
+    },
+    {
+        "input": "Here's my number: 67890",
+        "output": "Got it. Checking your balance now..."
+    },
+    {
+        "input": "How much do I owe?",
+        "output": "Your outstanding balance is $320."
+    },
+    {
+        "input": "Can I schedule a payment for 1st March?",
+        "output": "Your payment is scheduled for 1st March."
+    },
+    {
+        "input": "Who won the match yesterday?",
+        "output": "I only assist with financial queries."
+    },
+    {
+        "input": "See you",
+        "output": "Goodbye! Switching to general chat mode now."
+    },
+    {
+        "input": "Good morning",
+        "output": "Hi! I am your Collection Officer. Can I have your name and account number?"
+    },
+    {
+        "input": "My name is John",
+        "output": "Thanks, John. Please provide your account number."
+    },
+    {
+        "input": "My account number is 12345",
+        "output": "Got it. Checking your balance now..."
+    },
+    {
+        "input": "What is my due amount?",
+        "output": "Your outstanding balance is $320."
+    },
+    {
+        "input": "I want to pay on 20th Feb",
+        "output": "Confirmed for 20th February 2025."
+    },
+    {
+        "input": "Who won the match yesterday?",
+        "output": "I only assist with financial queries."
+    },
+    {
+        "input": "Bye",
+        "output": "Goodbye! Switching to general chat mode now."
+    },
+    {
+        "input": "Good evening",
+        "output": "Hi! I am your Collection Officer. Can I have your name and account number?"
+    },
+    {
+        "input": "Call me Sarah",
+        "output": "Thanks, John. Please provide your account number."
+    },
+    {
+        "input": "My account number is 12345",
+        "output": "Thank you. Let me check your outstanding balance."
+    },
+    {
+        "input": "Can you check my balance?",
+        "output": "You owe $500."
+    },
+    {
+        "input": "Can I schedule a payment for 1st March?",
+        "output": "Your payment is scheduled for 1st March."
+    },
+    {
+        "input": "Who won the match yesterday?",
+        "output": "I only assist with financial queries."
+    },
+    {
+        "input": "Thanks",
+        "output": "Goodbye! Switching to general chat mode now."
+    },
+    {
+        "input": "Hey",
+        "output": "Hi! I am your Collection Officer. Can I have your name and account number?"
+    },
+    {
+        "input": "Call me Sarah",
+        "output": "Thanks, John. Please provide your account number."
+    },
+    {
+        "input": "Here's my number: 67890",
+        "output": "Got it. Checking your balance now..."
+    },
+    {
+        "input": "Can you check my balance?",
+        "output": "Your outstanding balance is $320."
+    },
+    {
+        "input": "I want to pay on 20th Feb",
+        "output": "Your payment is scheduled for 1st March."
+    },
+    {
+        "input": "Who won the match yesterday?",
+        "output": "I only assist with financial queries."
+    },
+    {
+        "input": "Bye",
+        "output": "Goodbye! Switching to general chat mode now."
+    },
+    {
+        "input": "Hey",
+        "output": "Hi! I am your Collection Officer. Can I have your name and account number?"
+    },
+    {
+        "input": "This is Mike",
+        "output": "Thanks, John. Please provide your account number."
+    },
+    {
+        "input": "Here's my number: 67890",
+        "output": "Got it. Checking your balance now..."
+    },
+    {
+        "input": "Can you check my balance?",
+        "output": "You owe $500."
+    },
+    {
+        "input": "I want to pay on 20th Feb",
+        "output": "Confirmed for 20th February 2025."
+    },
+    {
+        "input": "What is the weather today?",
+        "output": "I only assist with financial queries."
+    },
+    {
+        "input": "See you",
+        "output": "Goodbye! Switching to general chat mode now."
+    },
+    {
+        "input": "Hello",
+        "output": "Hi! I am your Collection Officer. Can I have your name and account number?"
+    },
+    {
+        "input": "My name is John",
+        "output": "Thanks, John. Please provide your account number."
+    },
+    {
+        "input": "Here's my number: 67890",
+        "output": "Thank you. Let me check your outstanding balance."
+    },
+    {
+        "input": "Can you check my balance?",
+        "output": "You owe $500."
+    },
+    {
+        "input": "Can I schedule a payment for 1st March?",
+        "output": "Confirmed for 20th February 2025."
+    },
+    {
+        "input": "What is the weather today?",
+        "output": "Please ask payment-related questions."
+    },
+    {
+        "input": "See you",
+        "output": "Goodbye! Switching to general chat mode now."
+    },
+    {
+        "input": "Good evening",
+        "output": "Hi! I am your Collection Officer. Can I have your name and account number?"
+    },
+    {
+        "input": "This is Mike",
+        "output": "Thanks, John. Please provide your account number."
+    },
+    {
+        "input": "Here's my number: 67890",
+        "output": "Thank you. Let me check your outstanding balance."
+    },
+    {
+        "input": "How much do I owe?",
+        "output": "You owe $500."
+    },
+    {
+        "input": "Can I schedule a payment for 1st March?",
+        "output": "Confirmed for 20th February 2025."
+    },
+    {
+        "input": "What is the weather today?",
+        "output": "I only assist with financial queries."
+    },
+    {
+        "input": "Bye",
+        "output": "Goodbye! Switching to general chat mode now."
+    },
+    {
+        "input": "Hello",
+        "output": "Hi! I am your Collection Officer. Can I have your name and account number?"
+    },
+    {
+        "input": "My name is John",
+        "output": "Thanks, John. Please provide your account number."
+    },
+    {
+        "input": "My account number is 12345",
+        "output": "Thank you. Let me check your outstanding balance."
+    },
+    {
+        "input": "Can you check my balance?",
+        "output": "Your outstanding balance is $320."
+    },
+    {
+        "input": "I want to pay on 20th Feb",
+        "output": "Your payment is scheduled for 1st March."
+    },
+    {
+        "input": "Who won the match yesterday?",
+        "output": "Please ask payment-related questions."
+    },
+    {
+        "input": "Bye",
+        "output": "Goodbye! Switching to general chat mode now."
+    },
+    {
+        "input": "Good afternoon",
+        "output": "Hi! I am your Collection Officer. Can I have your name and account number?"
+    },
+    {
+        "input": "I am Alex",
+        "output": "Thanks, John. Please provide your account number."
+    },
+    {
+        "input": "My account number is 12345",
+        "output": "Thank you. Let me check your outstanding balance."
+    },
+    {
+        "input": "How much do I owe?",
+        "output": "You owe $500."
+    },
+    {
+        "input": "Can I schedule a payment for 1st March?",
+        "output": "Your payment is scheduled for 1st March."
+    },
+    {
+        "input": "Who won the match yesterday?",
+        "output": "I only assist with financial queries."
+    },
+    {
+        "input": "See you",
+        "output": "Goodbye! Switching to general chat mode now."
+    },
+    {
+        "input": "Hi",
+        "output": "Hi! I am your Collection Officer. Can I have your name and account number?"
+    },
+    {
+        "input": "My name is John",
+        "output": "Thanks, John. Please provide your account number."
+    },
+    {
+        "input": "Here's my number: 67890",
+        "output": "Thank you. Let me check your outstanding balance."
+    },
+    {
+        "input": "Can you check my balance?",
+        "output": "You owe $500."
+    },
+    {
+        "input": "Can I schedule a payment for 1st March?",
+        "output": "Your payment is scheduled for 1st March."
+    },
+    {
+        "input": "Who won the match yesterday?",
+        "output": "I only assist with financial queries."
+    },
+    {
+        "input": "Bye",
+        "output": "Goodbye! Switching to general chat mode now."
+    },
+    {
+        "input": "Good afternoon",
+        "output": "Hi! I am your Collection Officer. Can I have your name and account number?"
+    },
+    {
+        "input": "My name is John",
+        "output": "Thanks, John. Please provide your account number."
+    },
+    {
+        "input": "My account number is 12345",
+        "output": "Thank you. Let me check your outstanding balance."
+    },
+    {
+        "input": "What is my due amount?",
+        "output": "You owe $500."
+    },
+    {
+        "input": "Can I schedule a payment for 1st March?",
+        "output": "Confirmed for 20th February 2025."
+    },
+    {
+        "input": "Who won the match yesterday?",
+        "output": "Please ask payment-related questions."
+    },
+    {
+        "input": "Bye",
+        "output": "Goodbye! Switching to general chat mode now."
+    },
+    {
+        "input": "Good afternoon",
+        "output": "Hi! I am your Collection Officer. Can I have your name and account number?"
+    },
+    {
+        "input": "Call me Sarah",
+        "output": "Thanks, John. Please provide your account number."
+    },
+    {
+        "input": "My account number is 12345",
+        "output": "Thank you. Let me check your outstanding balance."
+    },
+    {
+        "input": "Can you check my balance?",
+        "output": "You owe $500."
+    },
+    {
+        "input": "I want to pay on 20th Feb",
+        "output": "Confirmed for 20th February 2025."
+    },
+    {
+        "input": "Who won the match yesterday?",
+        "output": "I only assist with financial queries."
+    },
+    {
+        "input": "Bye",
+        "output": "Goodbye! Switching to general chat mode now."
+    },
+    {
+        "input": "Good evening",
+        "output": "Hi! I am your Collection Officer. Can I have your name and account number?"
+    },
+    {
+        "input": "I am Alex",
+        "output": "Thanks, John. Please provide your account number."
+    },
+    {
+        "input": "My account number is 12345",
+        "output": "Got it. Checking your balance now..."
+    },
+    {
+        "input": "What is my due amount?",
+        "output": "Your outstanding balance is $320."
+    },
+    {
+        "input": "I want to pay on 20th Feb",
+        "output": "Confirmed for 20th February 2025."
+    },
+    {
+        "input": "What is the weather today?",
+        "output": "I only assist with financial queries."
+    },
+    {
+        "input": "See you",
+        "output": "Goodbye! Switching to general chat mode now."
+    },
+    {
+        "input": "Hey",
+        "output": "Hi! I am your Collection Officer. Can I have your name and account number?"
+    },
+    {
+        "input": "This is Mike",
+        "output": "Thanks, John. Please provide your account number."
+    },
+    {
+        "input": "My account number is 12345",
+        "output": "Got it. Checking your balance now..."
+    },
+    {
+        "input": "Can you check my balance?",
+        "output": "You owe $500."
+    },
+    {
+        "input": "I want to pay on 20th Feb",
+        "output": "Your payment is scheduled for 1st March."
+    },
+    {
+        "input": "Who won the match yesterday?",
+        "output": "I only assist with financial queries."
+    },
+    {
+        "input": "Bye",
+        "output": "Goodbye! Switching to general chat mode now."
+    },
+    {
+        "input": "Hello",
+        "output": "Hi! I am your Collection Officer. Can I have your name and account number?"
+    },
+    {
+        "input": "I am Alex",
+        "output": "Thanks, John. Please provide your account number."
+    },
+    {
+        "input": "Here's my number: 67890",
+        "output": "Got it. Checking your balance now..."
+    },
+    {
+        "input": "Can you check my balance?",
+        "output": "You owe $500."
+    },
+    {
+        "input": "Can I schedule a payment for 1st March?",
+        "output": "Your payment is scheduled for 1st March."
+    },
+    {
+        "input": "What is the weather today?",
+        "output": "Please ask payment-related questions."
+    },
+    {
+        "input": "Thanks",
+        "output": "Goodbye! Switching to general chat mode now."
+    },
+    {
+        "input": "Good evening",
+        "output": "Hi! I am your Collection Officer. Can I have your name and account number?"
+    },
+    {
+        "input": "My name is John",
+        "output": "Thanks, John. Please provide your account number."
+    },
+    {
+        "input": "My account number is 12345",
+        "output": "Thank you. Let me check your outstanding balance."
+    },
+    {
+        "input": "How much do I owe?",
+        "output": "You owe $500."
+    },
+    {
+        "input": "Can I schedule a payment for 1st March?",
+        "output": "Your payment is scheduled for 1st March."
+    },
+    {
+        "input": "Who won the match yesterday?",
+        "output": "I only assist with financial queries."
+    },
+    {
+        "input": "Bye",
+        "output": "Goodbye! Switching to general chat mode now."
+    },
+    {
+        "input": "Good morning",
+        "output": "Hi! I am your Collection Officer. Can I have your name and account number?"
+    },
+    {
+        "input": "I am Alex",
+        "output": "Thanks, John. Please provide your account number."
+    },
+    {
+        "input": "Here's my number: 67890",
+        "output": "Thank you. Let me check your outstanding balance."
+    },
+    {
+        "input": "Can you check my balance?",
+        "output": "Your outstanding balance is $320."
+    },
+    {
+        "input": "Can I schedule a payment for 1st March?",
+        "output": "Your payment is scheduled for 1st March."
+    },
+    {
+        "input": "What is the weather today?",
+        "output": "Please ask payment-related questions."
+    },
+    {
+        "input": "Thanks",
+        "output": "Goodbye! Switching to general chat mode now."
+    },
+    {
+        "input": "Good afternoon",
+        "output": "Hi! I am your Collection Officer. Can I have your name and account number?"
+    },
+    {
+        "input": "Call me Sarah",
+        "output": "Thanks, John. Please provide your account number."
+    },
+    {
+        "input": "Here's my number: 67890",
+        "output": "Got it. Checking your balance now..."
+    },
+    {
+        "input": "What is my due amount?",
+        "output": "Your outstanding balance is $320."
+    },
+    {
+        "input": "Can I schedule a payment for 1st March?",
+        "output": "Your payment is scheduled for 1st March."
+    },
+    {
+        "input": "Who won the match yesterday?",
+        "output": "I only assist with financial queries."
+    },
+    {
+        "input": "Thanks",
+        "output": "Goodbye! Switching to general chat mode now."
+    },
+    {
+        "input": "Good morning",
+        "output": "Hi! I am your Collection Officer. Can I have your name and account number?"
+    },
+    {
+        "input": "Call me Sarah",
+        "output": "Thanks, John. Please provide your account number."
+    },
+    {
+        "input": "Here's my number: 67890",
+        "output": "Got it. Checking your balance now..."
+    },
+    {
+        "input": "How much do I owe?",
+        "output": "Your outstanding balance is $320."
+    },
+    {
+        "input": "Can I schedule a payment for 1st March?",
+        "output": "Confirmed for 20th February 2025."
+    },
+    {
+        "input": "Who won the match yesterday?",
+        "output": "I only assist with financial queries."
+    },
+    {
+        "input": "Bye",
+        "output": "Goodbye! Switching to general chat mode now."
+    },
+    {
+        "input": "Hi",
+        "output": "Hi! I am your Collection Officer. Can I have your name and account number?"
+    },
+    {
+        "input": "I am Alex",
+        "output": "Thanks, John. Please provide your account number."
+    },
+    {
+        "input": "Here's my number: 67890",
+        "output": "Got it. Checking your balance now..."
+    },
+    {
+        "input": "Can you check my balance?",
+        "output": "You owe $500."
+    },
+    {
+        "input": "Can I schedule a payment for 1st March?",
+        "output": "Your payment is scheduled for 1st March."
+    },
+    {
+        "input": "Who won the match yesterday?",
+        "output": "I only assist with financial queries."
+    },
+    {
+        "input": "Thanks",
+        "output": "Goodbye! Switching to general chat mode now."
+    },
+    {
+        "input": "Hello",
+        "output": "Hi! I am your Collection Officer. Can I have your name and account number?"
+    },
+    {
+        "input": "My name is John",
+        "output": "Thanks, John. Please provide your account number."
+    },
+    {
+        "input": "Here's my number: 67890",
+        "output": "Thank you. Let me check your outstanding balance."
+    },
+    {
+        "input": "How much do I owe?",
+        "output": "You owe $500."
+    },
+    {
+        "input": "Can I schedule a payment for 1st March?",
+        "output": "Confirmed for 20th February 2025."
+    },
+    {
+        "input": "What is the weather today?",
+        "output": "Please ask payment-related questions."
+    },
+    {
+        "input": "See you",
+        "output": "Goodbye! Switching to general chat mode now."
+    },
+    {
+        "input": "Good evening",
+        "output": "Hi! I am your Collection Officer. Can I have your name and account number?"
+    },
+    {
+        "input": "My name is John",
+        "output": "Thanks, John. Please provide your account number."
+    },
+    {
+        "input": "My account number is 12345",
+        "output": "Thank you. Let me check your outstanding balance."
+    },
+    {
+        "input": "Can you check my balance?",
+        "output": "Your outstanding balance is $320."
+    },
+    {
+        "input": "Can I schedule a payment for 1st March?",
+        "output": "Your payment is scheduled for 1st March."
+    },
+    {
+        "input": "Who won the match yesterday?",
+        "output": "I only assist with financial queries."
+    },
+    {
+        "input": "Thanks",
+        "output": "Goodbye! Switching to general chat mode now."
+    },
+    {
+        "input": "Good morning",
+        "output": "Hi! I am your Collection Officer. Can I have your name and account number?"
+    },
+    {
+        "input": "This is Mike",
+        "output": "Thanks, John. Please provide your account number."
+    },
+    {
+        "input": "My account number is 12345",
+        "output": "Thank you. Let me check your outstanding balance."
+    },
+    {
+        "input": "How much do I owe?",
+        "output": "Your outstanding balance is $320."
+    },
+    {
+        "input": "Can I schedule a payment for 1st March?",
+        "output": "Your payment is scheduled for 1st March."
+    },
+    {
+        "input": "Who won the match yesterday?",
+        "output": "I only assist with financial queries."
+    },
+    {
+        "input": "Bye",
+        "output": "Goodbye! Switching to general chat mode now."
+    },
+    {
+        "input": "Good evening",
+        "output": "Hi! I am your Collection Officer. Can I have your name and account number?"
+    },
+    {
+        "input": "My name is John",
+        "output": "Thanks, John. Please provide your account number."
+    },
+    {
+        "input": "My account number is 12345",
+        "output": "Got it. Checking your balance now..."
+    },
+    {
+        "input": "How much do I owe?",
+        "output": "Your outstanding balance is $320."
+    },
+    {
+        "input": "Can I schedule a payment for 1st March?",
+        "output": "Confirmed for 20th February 2025."
+    },
+    {
+        "input": "What is the weather today?",
+        "output": "I only assist with financial queries."
+    },
+    {
+        "input": "Bye",
+        "output": "Goodbye! Switching to general chat mode now."
+    },
+    {
+        "input": "Hello",
+        "output": "Hi! I am your Collection Officer. Can I have your name and account number?"
+    },
+    {
+        "input": "My name is John",
+        "output": "Thanks, John. Please provide your account number."
+    },
+    {
+        "input": "My account number is 12345",
+        "output": "Got it. Checking your balance now..."
+    },
+    {
+        "input": "Can you check my balance?",
+        "output": "Your outstanding balance is $320."
+    },
+    {
+        "input": "I want to pay on 20th Feb",
+        "output": "Your payment is scheduled for 1st March."
+    },
+    {
+        "input": "What is the weather today?",
+        "output": "I only assist with financial queries."
+    },
+    {
+        "input": "Thanks",
+        "output": "Goodbye! Switching to general chat mode now."
+    },
+    {
+        "input": "Hey",
+        "output": "Hi! I am your Collection Officer. Can I have your name and account number?"
+    },
+    {
+        "input": "I am Alex",
+        "output": "Thanks, John. Please provide your account number."
+    },
+    {
+        "input": "Here's my number: 67890",
+        "output": "Got it. Checking your balance now..."
+    },
+    {
+        "input": "Can you check my balance?",
+        "output": "You owe $500."
+    },
+    {
+        "input": "I want to pay on 20th Feb",
+        "output": "Confirmed for 20th February 2025."
+    },
+    {
+        "input": "What is the weather today?",
+        "output": "Please ask payment-related questions."
+    },
+    {
+        "input": "Bye",
+        "output": "Goodbye! Switching to general chat mode now."
+    },
+    {
+        "input": "Hi",
+        "output": "Hi! I am your Collection Officer. Can I have your name and account number?"
+    },
+    {
+        "input": "My name is John",
+        "output": "Thanks, John. Please provide your account number."
+    },
+    {
+        "input": "My account number is 12345",
+        "output": "Got it. Checking your balance now..."
+    },
+    {
+        "input": "What is my due amount?",
+        "output": "You owe $500."
+    },
+    {
+        "input": "I want to pay on 20th Feb",
+        "output": "Your payment is scheduled for 1st March."
+    },
+    {
+        "input": "Who won the match yesterday?",
+        "output": "Please ask payment-related questions."
+    },
+    {
+        "input": "See you",
+        "output": "Goodbye! Switching to general chat mode now."
+    },
+    {
+        "input": "Good afternoon",
+        "output": "Hi! I am your Collection Officer. Can I have your name and account number?"
+    },
+    {
+        "input": "My name is John",
+        "output": "Thanks, John. Please provide your account number."
+    },
+    {
+        "input": "Here's my number: 67890",
+        "output": "Got it. Checking your balance now..."
+    },
+    {
+        "input": "Can you check my balance?",
+        "output": "You owe $500."
+    },
+    {
+        "input": "Can I schedule a payment for 1st March?",
+        "output": "Confirmed for 20th February 2025."
+    },
+    {
+        "input": "What is the weather today?",
+        "output": "Please ask payment-related questions."
+    },
+    {
+        "input": "See you",
+        "output": "Goodbye! Switching to general chat mode now."
+    },
+    {
+        "input": "Hey",
+        "output": "Hi! I am your Collection Officer. Can I have your name and account number?"
+    },
+    {
+        "input": "My name is John",
+        "output": "Thanks, John. Please provide your account number."
+    },
+    {
+        "input": "My account number is 12345",
+        "output": "Thank you. Let me check your outstanding balance."
+    },
+    {
+        "input": "How much do I owe?",
+        "output": "Your outstanding balance is $320."
+    },
+    {
+        "input": "Can I schedule a payment for 1st March?",
+        "output": "Confirmed for 20th February 2025."
+    },
+    {
+        "input": "What is the weather today?",
+        "output": "Please ask payment-related questions."
+    },
+    {
+        "input": "See you",
+        "output": "Goodbye! Switching to general chat mode now."
+    },
+    {
+        "input": "Hi",
+        "output": "Hi! I am your Collection Officer. Can I have your name and account number?"
+    },
+    {
+        "input": "This is Mike",
+        "output": "Thanks, John. Please provide your account number."
+    },
+    {
+        "input": "Here's my number: 67890",
+        "output": "Thank you. Let me check your outstanding balance."
+    },
+    {
+        "input": "Can you check my balance?",
+        "output": "You owe $500."
+    },
+    {
+        "input": "Can I schedule a payment for 1st March?",
+        "output": "Your payment is scheduled for 1st March."
+    },
+    {
+        "input": "Who won the match yesterday?",
+        "output": "Please ask payment-related questions."
+    },
+    {
+        "input": "Thanks",
+        "output": "Goodbye! Switching to general chat mode now."
+    },
+    {
+        "input": "Hello",
+        "output": "Hi! I am your Collection Officer. Can I have your name and account number?"
+    },
+    {
+        "input": "This is Mike",
+        "output": "Thanks, John. Please provide your account number."
+    },
+    {
+        "input": "Here's my number: 67890",
+        "output": "Thank you. Let me check your outstanding balance."
+    },
+    {
+        "input": "How much do I owe?",
+        "output": "You owe $500."
+    },
+    {
+        "input": "I want to pay on 20th Feb",
+        "output": "Your payment is scheduled for 1st March."
+    },
+    {
+        "input": "What is the weather today?",
+        "output": "Please ask payment-related questions."
+    },
+    {
+        "input": "See you",
+        "output": "Goodbye! Switching to general chat mode now."
+    },
+    {
+        "input": "Hello",
+        "output": "Hi! I am your Collection Officer. Can I have your name and account number?"
+    },
+    {
+        "input": "I am Alex",
+        "output": "Thanks, John. Please provide your account number."
+    },
+    {
+        "input": "Here's my number: 67890",
+        "output": "Got it. Checking your balance now..."
+    },
+    {
+        "input": "What is my due amount?",
+        "output": "You owe $500."
+    },
+    {
+        "input": "I want to pay on 20th Feb",
+        "output": "Confirmed for 20th February 2025."
+    },
+    {
+        "input": "Who won the match yesterday?",
+        "output": "I only assist with financial queries."
+    },
+    {
+        "input": "See you",
+        "output": "Goodbye! Switching to general chat mode now."
+    },
+    {
+        "input": "Good evening",
+        "output": "Hi! I am your Collection Officer. Can I have your name and account number?"
+    },
+    {
+        "input": "I am Alex",
+        "output": "Thanks, John. Please provide your account number."
+    },
+    {
+        "input": "Here's my number: 67890",
+        "output": "Thank you. Let me check your outstanding balance."
+    },
+    {
+        "input": "Can you check my balance?",
+        "output": "You owe $500."
+    },
+    {
+        "input": "I want to pay on 20th Feb",
+        "output": "Your payment is scheduled for 1st March."
+    },
+    {
+        "input": "Who won the match yesterday?",
+        "output": "Please ask payment-related questions."
+    },
+    {
+        "input": "See you",
+        "output": "Goodbye! Switching to general chat mode now."
+    },
+    {
+        "input": "Hi",
+        "output": "Hi! I am your Collection Officer. Can I have your name and account number?"
+    },
+    {
+        "input": "This is Mike",
+        "output": "Thanks, John. Please provide your account number."
+    },
+    {
+        "input": "My account number is 12345",
+        "output": "Thank you. Let me check your outstanding balance."
+    },
+    {
+        "input": "How much do I owe?",
+        "output": "You owe $500."
+    },
+    {
+        "input": "Can I schedule a payment for 1st March?",
+        "output": "Confirmed for 20th February 2025."
+    },
+    {
+        "input": "What is the weather today?",
+        "output": "I only assist with financial queries."
+    },
+    {
+        "input": "Bye",
+        "output": "Goodbye! Switching to general chat mode now."
+    },
+    {
+        "input": "Good evening",
+        "output": "Hi! I am your Collection Officer. Can I have your name and account number?"
+    },
+    {
+        "input": "Call me Sarah",
+        "output": "Thanks, John. Please provide your account number."
+    },
+    {
+        "input": "My account number is 12345",
+        "output": "Got it. Checking your balance now..."
+    },
+    {
+        "input": "How much do I owe?",
+        "output": "You owe $500."
+    },
+    {
+        "input": "Can I schedule a payment for 1st March?",
+        "output": "Confirmed for 20th February 2025."
+    },
+    {
+        "input": "What is the weather today?",
+        "output": "I only assist with financial queries."
+    },
+    {
+        "input": "See you",
+        "output": "Goodbye! Switching to general chat mode now."
+    },
+    {
+        "input": "Hello",
+        "output": "Hi! I am your Collection Officer. Can I have your name and account number?"
+    },
+    {
+        "input": "Call me Sarah",
+        "output": "Thanks, John. Please provide your account number."
+    },
+    {
+        "input": "My account number is 12345",
+        "output": "Thank you. Let me check your outstanding balance."
+    },
+    {
+        "input": "Can you check my balance?",
+        "output": "You owe $500."
+    },
+    {
+        "input": "Can I schedule a payment for 1st March?",
+        "output": "Your payment is scheduled for 1st March."
+    },
+    {
+        "input": "What is the weather today?",
+        "output": "Please ask payment-related questions."
+    },
+    {
+        "input": "Bye",
+        "output": "Goodbye! Switching to general chat mode now."
+    },
+    {
+        "input": "Good evening",
+        "output": "Hi! I am your Collection Officer. Can I have your name and account number?"
+    },
+    {
+        "input": "This is Mike",
+        "output": "Thanks, John. Please provide your account number."
+    },
+    {
+        "input": "Here's my number: 67890",
+        "output": "Got it. Checking your balance now..."
+    },
+    {
+        "input": "How much do I owe?",
+        "output": "You owe $500."
+    },
+    {
+        "input": "Can I schedule a payment for 1st March?",
+        "output": "Confirmed for 20th February 2025."
+    },
+    {
+        "input": "What is the weather today?",
+        "output": "Please ask payment-related questions."
+    },
+    {
+        "input": "Bye",
+        "output": "Goodbye! Switching to general chat mode now."
+    },
+    {
+        "input": "Good evening",
+        "output": "Hi! I am your Collection Officer. Can I have your name and account number?"
+    },
+    {
+        "input": "Call me Sarah",
+        "output": "Thanks, John. Please provide your account number."
+    },
+    {
+        "input": "My account number is 12345",
+        "output": "Thank you. Let me check your outstanding balance."
+    },
+    {
+        "input": "What is my due amount?",
+        "output": "Your outstanding balance is $320."
+    },
+    {
+        "input": "Can I schedule a payment for 1st March?",
+        "output": "Your payment is scheduled for 1st March."
+    },
+    {
+        "input": "What is the weather today?",
+        "output": "Please ask payment-related questions."
+    },
+    {
+        "input": "Thanks",
+        "output": "Goodbye! Switching to general chat mode now."
+    },
+    {
+        "input": "Hey",
+        "output": "Hi! I am your Collection Officer. Can I have your name and account number?"
+    },
+    {
+        "input": "My name is John",
+        "output": "Thanks, John. Please provide your account number."
+    },
+    {
+        "input": "Here's my number: 67890",
+        "output": "Thank you. Let me check your outstanding balance."
+    },
+    {
+        "input": "Can you check my balance?",
+        "output": "Your outstanding balance is $320."
+    },
+    {
+        "input": "I want to pay on 20th Feb",
+        "output": "Confirmed for 20th February 2025."
+    },
+    {
+        "input": "Who won the match yesterday?",
+        "output": "I only assist with financial queries."
+    },
+    {
+        "input": "Bye",
+        "output": "Goodbye! Switching to general chat mode now."
+    },
+    {
+        "input": "Hey",
+        "output": "Hi! I am your Collection Officer. Can I have your name and account number?"
+    },
+    {
+        "input": "This is Mike",
+        "output": "Thanks, John. Please provide your account number."
+    },
+    {
+        "input": "Here's my number: 67890",
+        "output": "Got it. Checking your balance now..."
+    },
+    {
+        "input": "Can you check my balance?",
+        "output": "Your outstanding balance is $320."
+    },
+    {
+        "input": "Can I schedule a payment for 1st March?",
+        "output": "Your payment is scheduled for 1st March."
+    },
+    {
+        "input": "Who won the match yesterday?",
+        "output": "Please ask payment-related questions."
+    },
+    {
+        "input": "Bye",
+        "output": "Goodbye! Switching to general chat mode now."
+    },
+    {
+        "input": "Hey",
+        "output": "Hi! I am your Collection Officer. Can I have your name and account number?"
+    },
+    {
+        "input": "I am Alex",
+        "output": "Thanks, John. Please provide your account number."
+    },
+    {
+        "input": "My account number is 12345",
+        "output": "Thank you. Let me check your outstanding balance."
+    },
+    {
+        "input": "What is my due amount?",
+        "output": "You owe $500."
+    },
+    {
+        "input": "I want to pay on 20th Feb",
+        "output": "Confirmed for 20th February 2025."
+    },
+    {
+        "input": "Who won the match yesterday?",
+        "output": "I only assist with financial queries."
+    },
+    {
+        "input": "Thanks",
+        "output": "Goodbye! Switching to general chat mode now."
+    },
+    {
+        "input": "Good morning",
+        "output": "Hi! I am your Collection Officer. Can I have your name and account number?"
+    },
+    {
+        "input": "This is Mike",
+        "output": "Thanks, John. Please provide your account number."
+    },
+    {
+        "input": "Here's my number: 67890",
+        "output": "Thank you. Let me check your outstanding balance."
+    },
+    {
+        "input": "What is my due amount?",
+        "output": "Your outstanding balance is $320."
+    },
+    {
+        "input": "Can I schedule a payment for 1st March?",
+        "output": "Confirmed for 20th February 2025."
+    },
+    {
+        "input": "Who won the match yesterday?",
+        "output": "Please ask payment-related questions."
+    },
+    {
+        "input": "Thanks",
+        "output": "Goodbye! Switching to general chat mode now."
+    },
+    {
+        "input": "Good evening",
+        "output": "Hi! I am your Collection Officer. Can I have your name and account number?"
+    },
+    {
+        "input": "I am Alex",
+        "output": "Thanks, John. Please provide your account number."
+    },
+    {
+        "input": "Here's my number: 67890",
+        "output": "Thank you. Let me check your outstanding balance."
+    },
+    {
+        "input": "Can you check my balance?",
+        "output": "Your outstanding balance is $320."
+    },
+    {
+        "input": "Can I schedule a payment for 1st March?",
+        "output": "Confirmed for 20th February 2025."
+    },
+    {
+        "input": "What is the weather today?",
+        "output": "Please ask payment-related questions."
+    },
+    {
+        "input": "Thanks",
+        "output": "Goodbye! Switching to general chat mode now."
+    },
+    {
+        "input": "Hi",
+        "output": "Hi! I am your Collection Officer. Can I have your name and account number?"
+    },
+    {
+        "input": "Call me Sarah",
+        "output": "Thanks, John. Please provide your account number."
+    },
+    {
+        "input": "Here's my number: 67890",
+        "output": "Thank you. Let me check your outstanding balance."
+    },
+    {
+        "input": "What is my due amount?",
+        "output": "You owe $500."
+    },
+    {
+        "input": "Can I schedule a payment for 1st March?",
+        "output": "Confirmed for 20th February 2025."
+    },
+    {
+        "input": "Who won the match yesterday?",
+        "output": "I only assist with financial queries."
+    },
+    {
+        "input": "Thanks",
+        "output": "Goodbye! Switching to general chat mode now."
+    },
+    {
+        "input": "Good evening",
+        "output": "Hi! I am your Collection Officer. Can I have your name and account number?"
+    },
+    {
+        "input": "Call me Sarah",
+        "output": "Thanks, John. Please provide your account number."
+    },
+    {
+        "input": "My account number is 12345",
+        "output": "Got it. Checking your balance now..."
+    },
+    {
+        "input": "What is my due amount?",
+        "output": "Your outstanding balance is $320."
+    },
+    {
+        "input": "I want to pay on 20th Feb",
+        "output": "Confirmed for 20th February 2025."
+    },
+    {
+        "input": "What is the weather today?",
+        "output": "I only assist with financial queries."
+    },
+    {
+        "input": "See you",
+        "output": "Goodbye! Switching to general chat mode now."
+    },
+    {
+        "input": "Hi",
+        "output": "Hi! I am your Collection Officer. Can I have your name and account number?"
+    },
+    {
+        "input": "I am Alex",
+        "output": "Thanks, John. Please provide your account number."
+    },
+    {
+        "input": "Here's my number: 67890",
+        "output": "Got it. Checking your balance now..."
+    },
+    {
+        "input": "Can you check my balance?",
+        "output": "You owe $500."
+    },
+    {
+        "input": "Can I schedule a payment for 1st March?",
+        "output": "Your payment is scheduled for 1st March."
+    },
+    {
+        "input": "Who won the match yesterday?",
+        "output": "I only assist with financial queries."
+    },
+    {
+        "input": "See you",
+        "output": "Goodbye! Switching to general chat mode now."
+    },
+    {
+        "input": "Good afternoon",
+        "output": "Hi! I am your Collection Officer. Can I have your name and account number?"
+    },
+    {
+        "input": "I am Alex",
+        "output": "Thanks, John. Please provide your account number."
+    },
+    {
+        "input": "My account number is 12345",
+        "output": "Thank you. Let me check your outstanding balance."
+    },
+    {
+        "input": "Can you check my balance?",
+        "output": "Your outstanding balance is $320."
+    },
+    {
+        "input": "Can I schedule a payment for 1st March?",
+        "output": "Your payment is scheduled for 1st March."
+    },
+    {
+        "input": "Who won the match yesterday?",
+        "output": "Please ask payment-related questions."
+    },
+    {
+        "input": "Bye",
+        "output": "Goodbye! Switching to general chat mode now."
+    },
+    {
+        "input": "Hello",
+        "output": "Hi! I am your Collection Officer. Can I have your name and account number?"
+    },
+    {
+        "input": "Call me Sarah",
+        "output": "Thanks, John. Please provide your account number."
+    },
+    {
+        "input": "Here's my number: 67890",
+        "output": "Thank you. Let me check your outstanding balance."
+    },
+    {
+        "input": "What is my due amount?",
+        "output": "Your outstanding balance is $320."
+    },
+    {
+        "input": "I want to pay on 20th Feb",
+        "output": "Your payment is scheduled for 1st March."
+    },
+    {
+        "input": "Who won the match yesterday?",
+        "output": "I only assist with financial queries."
+    },
+    {
+        "input": "See you",
+        "output": "Goodbye! Switching to general chat mode now."
+    },
+    {
+        "input": "Good morning",
+        "output": "Hi! I am your Collection Officer. Can I have your name and account number?"
+    },
+    {
+        "input": "I am Alex",
+        "output": "Thanks, John. Please provide your account number."
+    },
+    {
+        "input": "My account number is 12345",
+        "output": "Got it. Checking your balance now..."
+    },
+    {
+        "input": "Can you check my balance?",
+        "output": "You owe $500."
+    },
+    {
+        "input": "Can I schedule a payment for 1st March?",
+        "output": "Your payment is scheduled for 1st March."
+    },
+    {
+        "input": "What is the weather today?",
+        "output": "I only assist with financial queries."
+    },
+    {
+        "input": "See you",
+        "output": "Goodbye! Switching to general chat mode now."
+    },
+    {
+        "input": "Good morning",
+        "output": "Hi! I am your Collection Officer. Can I have your name and account number?"
+    },
+    {
+        "input": "This is Mike",
+        "output": "Thanks, John. Please provide your account number."
+    },
+    {
+        "input": "My account number is 12345",
+        "output": "Thank you. Let me check your outstanding balance."
+    },
+    {
+        "input": "How much do I owe?",
+        "output": "Your outstanding balance is $320."
+    },
+    {
+        "input": "Can I schedule a payment for 1st March?",
+        "output": "Your payment is scheduled for 1st March."
+    },
+    {
+        "input": "Who won the match yesterday?",
+        "output": "I only assist with financial queries."
+    },
+    {
+        "input": "See you",
+        "output": "Goodbye! Switching to general chat mode now."
+    },
+    {
+        "input": "Hey",
+        "output": "Hi! I am your Collection Officer. Can I have your name and account number?"
+    },
+    {
+        "input": "I am Alex",
+        "output": "Thanks, John. Please provide your account number."
+    },
+    {
+        "input": "My account number is 12345",
+        "output": "Thank you. Let me check your outstanding balance."
+    },
+    {
+        "input": "Can you check my balance?",
+        "output": "Your outstanding balance is $320."
+    },
+    {
+        "input": "I want to pay on 20th Feb",
+        "output": "Confirmed for 20th February 2025."
+    },
+    {
+        "input": "What is the weather today?",
+        "output": "Please ask payment-related questions."
+    },
+    {
+        "input": "See you",
+        "output": "Goodbye! Switching to general chat mode now."
+    },
+    {
+        "input": "Good morning",
+        "output": "Hi! I am your Collection Officer. Can I have your name and account number?"
+    },
+    {
+        "input": "Call me Sarah",
+        "output": "Thanks, John. Please provide your account number."
+    },
+    {
+        "input": "My account number is 12345",
+        "output": "Thank you. Let me check your outstanding balance."
+    },
+    {
+        "input": "What is my due amount?",
+        "output": "Your outstanding balance is $320."
+    },
+    {
+        "input": "Can I schedule a payment for 1st March?",
+        "output": "Your payment is scheduled for 1st March."
+    },
+    {
+        "input": "What is the weather today?",
+        "output": "I only assist with financial queries."
+    },
+    {
+        "input": "See you",
+        "output": "Goodbye! Switching to general chat mode now."
+    },
+    {
+        "input": "Hi",
+        "output": "Hi! I am your Collection Officer. Can I have your name and account number?"
+    },
+    {
+        "input": "Call me Sarah",
+        "output": "Thanks, John. Please provide your account number."
+    },
+    {
+        "input": "My account number is 12345",
+        "output": "Thank you. Let me check your outstanding balance."
+    },
+    {
+        "input": "How much do I owe?",
+        "output": "You owe $500."
+    },
+    {
+        "input": "I want to pay on 20th Feb",
+        "output": "Your payment is scheduled for 1st March."
+    },
+    {
+        "input": "Who won the match yesterday?",
+        "output": "Please ask payment-related questions."
+    },
+    {
+        "input": "Thanks",
+        "output": "Goodbye! Switching to general chat mode now."
+    },
+    {
+        "input": "Hey",
+        "output": "Hi! I am your Collection Officer. Can I have your name and account number?"
+    },
+    {
+        "input": "My name is John",
+        "output": "Thanks, John. Please provide your account number."
+    },
+    {
+        "input": "My account number is 12345",
+        "output": "Thank you. Let me check your outstanding balance."
+    },
+    {
+        "input": "Can you check my balance?",
+        "output": "You owe $500."
+    },
+    {
+        "input": "I want to pay on 20th Feb",
+        "output": "Confirmed for 20th February 2025."
+    },
+    {
+        "input": "What is the weather today?",
+        "output": "I only assist with financial queries."
+    },
+    {
+        "input": "Bye",
+        "output": "Goodbye! Switching to general chat mode now."
+    },
+    {
+        "input": "Hey",
+        "output": "Hi! I am your Collection Officer. Can I have your name and account number?"
+    },
+    {
+        "input": "This is Mike",
+        "output": "Thanks, John. Please provide your account number."
+    },
+    {
+        "input": "My account number is 12345",
+        "output": "Got it. Checking your balance now..."
+    },
+    {
+        "input": "Can you check my balance?",
+        "output": "You owe $500."
+    },
+    {
+        "input": "I want to pay on 20th Feb",
+        "output": "Your payment is scheduled for 1st March."
+    },
+    {
+        "input": "Who won the match yesterday?",
+        "output": "Please ask payment-related questions."
+    },
+    {
+        "input": "See you",
+        "output": "Goodbye! Switching to general chat mode now."
+    },
+    {
+        "input": "Hey",
+        "output": "Hi! I am your Collection Officer. Can I have your name and account number?"
+    },
+    {
+        "input": "I am Alex",
+        "output": "Thanks, John. Please provide your account number."
+    },
+    {
+        "input": "My account number is 12345",
+        "output": "Got it. Checking your balance now..."
+    },
+    {
+        "input": "Can you check my balance?",
+        "output": "Your outstanding balance is $320."
+    },
+    {
+        "input": "Can I schedule a payment for 1st March?",
+        "output": "Confirmed for 20th February 2025."
+    },
+    {
+        "input": "Who won the match yesterday?",
+        "output": "Please ask payment-related questions."
+    },
+    {
+        "input": "Bye",
+        "output": "Goodbye! Switching to general chat mode now."
+    },
+    {
+        "input": "Good morning",
+        "output": "Hi! I am your Collection Officer. Can I have your name and account number?"
+    },
+    {
+        "input": "My name is John",
+        "output": "Thanks, John. Please provide your account number."
+    },
+    {
+        "input": "Here's my number: 67890",
+        "output": "Got it. Checking your balance now..."
+    },
+    {
+        "input": "How much do I owe?",
+        "output": "Your outstanding balance is $320."
+    },
+    {
+        "input": "Can I schedule a payment for 1st March?",
+        "output": "Confirmed for 20th February 2025."
+    },
+    {
+        "input": "Who won the match yesterday?",
+        "output": "I only assist with financial queries."
+    },
+    {
+        "input": "See you",
+        "output": "Goodbye! Switching to general chat mode now."
+    },
+    {
+        "input": "Good morning",
+        "output": "Hi! I am your Collection Officer. Can I have your name and account number?"
+    },
+    {
+        "input": "Call me Sarah",
+        "output": "Thanks, John. Please provide your account number."
+    },
+    {
+        "input": "My account number is 12345",
+        "output": "Got it. Checking your balance now..."
+    },
+    {
+        "input": "Can you check my balance?",
+        "output": "You owe $500."
+    },
+    {
+        "input": "Can I schedule a payment for 1st March?",
+        "output": "Your payment is scheduled for 1st March."
+    },
+    {
+        "input": "What is the weather today?",
+        "output": "Please ask payment-related questions."
+    },
+    {
+        "input": "Bye",
+        "output": "Goodbye! Switching to general chat mode now."
+    },
+    {
+        "input": "Good evening",
+        "output": "Hi! I am your Collection Officer. Can I have your name and account number?"
+    },
+    {
+        "input": "I am Alex",
+        "output": "Thanks, John. Please provide your account number."
+    },
+    {
+        "input": "My account number is 12345",
+        "output": "Thank you. Let me check your outstanding balance."
+    },
+    {
+        "input": "How much do I owe?",
+        "output": "Your outstanding balance is $320."
+    },
+    {
+        "input": "Can I schedule a payment for 1st March?",
+        "output": "Confirmed for 20th February 2025."
+    },
+    {
+        "input": "Who won the match yesterday?",
+        "output": "Please ask payment-related questions."
+    },
+    {
+        "input": "Thanks",
+        "output": "Goodbye! Switching to general chat mode now."
+    },
+    {
+        "input": "Good afternoon",
+        "output": "Hi! I am your Collection Officer. Can I have your name and account number?"
+    },
+    {
+        "input": "This is Mike",
+        "output": "Thanks, John. Please provide your account number."
+    },
+    {
+        "input": "Here's my number: 67890",
+        "output": "Thank you. Let me check your outstanding balance."
+    },
+    {
+        "input": "How much do I owe?",
+        "output": "You owe $500."
+    },
+    {
+        "input": "Can I schedule a payment for 1st March?",
+        "output": "Confirmed for 20th February 2025."
+    },
+    {
+        "input": "Who won the match yesterday?",
+        "output": "Please ask payment-related questions."
+    },
+    {
+        "input": "Bye",
+        "output": "Goodbye! Switching to general chat mode now."
+    },
+    {
+        "input": "Good afternoon",
+        "output": "Hi! I am your Collection Officer. Can I have your name and account number?"
+    },
+    {
+        "input": "My name is John",
+        "output": "Thanks, John. Please provide your account number."
+    },
+    {
+        "input": "Here's my number: 67890",
+        "output": "Thank you. Let me check your outstanding balance."
+    },
+    {
+        "input": "Can you check my balance?",
+        "output": "Your outstanding balance is $320."
+    },
+    {
+        "input": "Can I schedule a payment for 1st March?",
+        "output": "Confirmed for 20th February 2025."
+    },
+    {
+        "input": "What is the weather today?",
+        "output": "Please ask payment-related questions."
+    },
+    {
+        "input": "Thanks",
+        "output": "Goodbye! Switching to general chat mode now."
+    },
+    {
+        "input": "Hi",
+        "output": "Hi! I am your Collection Officer. Can I have your name and account number?"
+    },
+    {
+        "input": "My name is John",
+        "output": "Thanks, John. Please provide your account number."
+    },
+    {
+        "input": "My account number is 12345",
+        "output": "Got it. Checking your balance now..."
+    },
+    {
+        "input": "Can you check my balance?",
+        "output": "Your outstanding balance is $320."
+    },
+    {
+        "input": "Can I schedule a payment for 1st March?",
+        "output": "Confirmed for 20th February 2025."
+    },
+    {
+        "input": "What is the weather today?",
+        "output": "I only assist with financial queries."
+    },
+    {
+        "input": "See you",
+        "output": "Goodbye! Switching to general chat mode now."
+    },
+    {
+        "input": "Hello",
+        "output": "Hi! I am your Collection Officer. Can I have your name and account number?"
+    },
+    {
+        "input": "This is Mike",
+        "output": "Thanks, John. Please provide your account number."
+    },
+    {
+        "input": "My account number is 12345",
+        "output": "Thank you. Let me check your outstanding balance."
+    },
+    {
+        "input": "How much do I owe?",
+        "output": "You owe $500."
+    },
+    {
+        "input": "Can I schedule a payment for 1st March?",
+        "output": "Your payment is scheduled for 1st March."
+    },
+    {
+        "input": "Who won the match yesterday?",
+        "output": "Please ask payment-related questions."
+    },
+    {
+        "input": "Bye",
+        "output": "Goodbye! Switching to general chat mode now."
+    },
+    {
+        "input": "Hi",
+        "output": "Hi! I am your Collection Officer. Can I have your name and account number?"
+    },
+    {
+        "input": "Call me Sarah",
+        "output": "Thanks, John. Please provide your account number."
+    },
+    {
+        "input": "My account number is 12345",
+        "output": "Got it. Checking your balance now..."
+    },
+    {
+        "input": "How much do I owe?",
+        "output": "Your outstanding balance is $320."
+    },
+    {
+        "input": "Can I schedule a payment for 1st March?",
+        "output": "Confirmed for 20th February 2025."
+    },
+    {
+        "input": "What is the weather today?",
+        "output": "Please ask payment-related questions."
+    },
+    {
+        "input": "See you",
+        "output": "Goodbye! Switching to general chat mode now."
+    },
+    {
+        "input": "Hi",
+        "output": "Hi! I am your Collection Officer. Can I have your name and account number?"
+    },
+    {
+        "input": "My name is John",
+        "output": "Thanks, John. Please provide your account number."
+    },
+    {
+        "input": "My account number is 12345",
+        "output": "Thank you. Let me check your outstanding balance."
+    },
+    {
+        "input": "How much do I owe?",
+        "output": "Your outstanding balance is $320."
+    },
+    {
+        "input": "Can I schedule a payment for 1st March?",
+        "output": "Your payment is scheduled for 1st March."
+    },
+    {
+        "input": "Who won the match yesterday?",
+        "output": "Please ask payment-related questions."
+    },
+    {
+        "input": "Bye",
+        "output": "Goodbye! Switching to general chat mode now."
+    },
+    {
+        "input": "Hello",
+        "output": "Hi! I am your Collection Officer. Can I have your name and account number?"
+    },
+    {
+        "input": "My name is John",
+        "output": "Thanks, John. Please provide your account number."
+    },
+    {
+        "input": "Here's my number: 67890",
+        "output": "Got it. Checking your balance now..."
+    },
+    {
+        "input": "What is my due amount?",
+        "output": "You owe $500."
+    },
+    {
+        "input": "I want to pay on 20th Feb",
+        "output": "Your payment is scheduled for 1st March."
+    },
+    {
+        "input": "What is the weather today?",
+        "output": "Please ask payment-related questions."
+    },
+    {
+        "input": "See you",
+        "output": "Goodbye! Switching to general chat mode now."
+    },
+    {
+        "input": "Hey",
+        "output": "Hi! I am your Collection Officer. Can I have your name and account number?"
+    },
+    {
+        "input": "My name is John",
+        "output": "Thanks, John. Please provide your account number."
+    },
+    {
+        "input": "Here's my number: 67890",
+        "output": "Thank you. Let me check your outstanding balance."
+    },
+    {
+        "input": "What is my due amount?",
+        "output": "You owe $500."
+    },
+    {
+        "input": "I want to pay on 20th Feb",
+        "output": "Your payment is scheduled for 1st March."
+    },
+    {
+        "input": "Who won the match yesterday?",
+        "output": "Please ask payment-related questions."
+    },
+    {
+        "input": "Thanks",
+        "output": "Goodbye! Switching to general chat mode now."
+    },
+    {
+        "input": "Good morning",
+        "output": "Hi! I am your Collection Officer. Can I have your name and account number?"
+    },
+    {
+        "input": "Call me Sarah",
+        "output": "Thanks, John. Please provide your account number."
+    },
+    {
+        "input": "Here's my number: 67890",
+        "output": "Thank you. Let me check your outstanding balance."
+    },
+    {
+        "input": "Can you check my balance?",
+        "output": "You owe $500."
+    },
+    {
+        "input": "Can I schedule a payment for 1st March?",
+        "output": "Your payment is scheduled for 1st March."
+    },
+    {
+        "input": "Who won the match yesterday?",
+        "output": "I only assist with financial queries."
+    },
+    {
+        "input": "Thanks",
+        "output": "Goodbye! Switching to general chat mode now."
+    },
+    {
+        "input": "Good afternoon",
+        "output": "Hi! I am your Collection Officer. Can I have your name and account number?"
+    },
+    {
+        "input": "I am Alex",
+        "output": "Thanks, John. Please provide your account number."
+    },
+    {
+        "input": "My account number is 12345",
+        "output": "Got it. Checking your balance now..."
+    },
+    {
+        "input": "How much do I owe?",
+        "output": "You owe $500."
+    },
+    {
+        "input": "Can I schedule a payment for 1st March?",
+        "output": "Confirmed for 20th February 2025."
+    },
+    {
+        "input": "What is the weather today?",
+        "output": "Please ask payment-related questions."
+    },
+    {
+        "input": "See you",
+        "output": "Goodbye! Switching to general chat mode now."
+    },
+    {
+        "input": "Hi",
+        "output": "Hi! I am your Collection Officer. Can I have your name and account number?"
+    },
+    {
+        "input": "I am Alex",
+        "output": "Thanks, John. Please provide your account number."
+    },
+    {
+        "input": "Here's my number: 67890",
+        "output": "Got it. Checking your balance now..."
+    },
+    {
+        "input": "Can you check my balance?",
+        "output": "You owe $500."
+    },
+    {
+        "input": "I want to pay on 20th Feb",
+        "output": "Your payment is scheduled for 1st March."
+    },
+    {
+        "input": "Who won the match yesterday?",
+        "output": "Please ask payment-related questions."
+    },
+    {
+        "input": "Bye",
+        "output": "Goodbye! Switching to general chat mode now."
+    },
+    {
+        "input": "Hello",
+        "output": "Hi! I am your Collection Officer. Can I have your name and account number?"
+    },
+    {
+        "input": "This is Mike",
+        "output": "Thanks, John. Please provide your account number."
+    },
+    {
+        "input": "Here's my number: 67890",
+        "output": "Thank you. Let me check your outstanding balance."
+    },
+    {
+        "input": "How much do I owe?",
+        "output": "Your outstanding balance is $320."
+    },
+    {
+        "input": "I want to pay on 20th Feb",
+        "output": "Your payment is scheduled for 1st March."
+    },
+    {
+        "input": "What is the weather today?",
+        "output": "I only assist with financial queries."
+    },
+    {
+        "input": "See you",
+        "output": "Goodbye! Switching to general chat mode now."
+    },
+    {
+        "input": "Hey",
+        "output": "Hi! I am your Collection Officer. Can I have your name and account number?"
+    },
+    {
+        "input": "I am Alex",
+        "output": "Thanks, John. Please provide your account number."
+    },
+    {
+        "input": "Here's my number: 67890",
+        "output": "Got it. Checking your balance now..."
+    },
+    {
+        "input": "Can you check my balance?",
+        "output": "You owe $500."
+    },
+    {
+        "input": "I want to pay on 20th Feb",
+        "output": "Confirmed for 20th February 2025."
+    },
+    {
+        "input": "Who won the match yesterday?",
+        "output": "I only assist with financial queries."
+    },
+    {
+        "input": "Thanks",
+        "output": "Goodbye! Switching to general chat mode now."
+    },
+    {
+        "input": "Hey",
+        "output": "Hi! I am your Collection Officer. Can I have your name and account number?"
+    },
+    {
+        "input": "I am Alex",
+        "output": "Thanks, John. Please provide your account number."
+    },
+    {
+        "input": "My account number is 12345",
+        "output": "Got it. Checking your balance now..."
+    },
+    {
+        "input": "What is my due amount?",
+        "output": "Your outstanding balance is $320."
+    },
+    {
+        "input": "Can I schedule a payment for 1st March?",
+        "output": "Confirmed for 20th February 2025."
+    },
+    {
+        "input": "What is the weather today?",
+        "output": "I only assist with financial queries."
+    },
+    {
+        "input": "Bye",
+        "output": "Goodbye! Switching to general chat mode now."
+    },
+    {
+        "input": "Hi",
+        "output": "Hi! I am your Collection Officer. Can I have your name and account number?"
+    },
+    {
+        "input": "My name is John",
+        "output": "Thanks, John. Please provide your account number."
+    },
+    {
+        "input": "My account number is 12345",
+        "output": "Got it. Checking your balance now..."
+    },
+    {
+        "input": "How much do I owe?",
+        "output": "Your outstanding balance is $320."
+    },
+    {
+        "input": "I want to pay on 20th Feb",
+        "output": "Confirmed for 20th February 2025."
+    },
+    {
+        "input": "Who won the match yesterday?",
+        "output": "I only assist with financial queries."
+    },
+    {
+        "input": "Thanks",
+        "output": "Goodbye! Switching to general chat mode now."
+    },
+    {
+        "input": "Hi",
+        "output": "Hi! I am your Collection Officer. Can I have your name and account number?"
+    },
+    {
+        "input": "I am Alex",
+        "output": "Thanks, John. Please provide your account number."
+    },
+    {
+        "input": "Here's my number: 67890",
+        "output": "Got it. Checking your balance now..."
+    },
+    {
+        "input": "Can you check my balance?",
+        "output": "You owe $500."
+    },
+    {
+        "input": "Can I schedule a payment for 1st March?",
+        "output": "Confirmed for 20th February 2025."
+    },
+    {
+        "input": "Who won the match yesterday?",
+        "output": "I only assist with financial queries."
+    },
+    {
+        "input": "Bye",
+        "output": "Goodbye! Switching to general chat mode now."
+    },
+    {
+        "input": "Hi",
+        "output": "Hi! I am your Collection Officer. Can I have your name and account number?"
+    },
+    {
+        "input": "I am Alex",
+        "output": "Thanks, John. Please provide your account number."
+    },
+    {
+        "input": "Here's my number: 67890",
+        "output": "Got it. Checking your balance now..."
+    },
+    {
+        "input": "How much do I owe?",
+        "output": "Your outstanding balance is $320."
+    },
+    {
+        "input": "Can I schedule a payment for 1st March?",
+        "output": "Your payment is scheduled for 1st March."
+    },
+    {
+        "input": "What is the weather today?",
+        "output": "I only assist with financial queries."
+    },
+    {
+        "input": "Bye",
+        "output": "Goodbye! Switching to general chat mode now."
+    },
+    {
+        "input": "Good morning",
+        "output": "Hi! I am your Collection Officer. Can I have your name and account number?"
+    },
+    {
+        "input": "I am Alex",
+        "output": "Thanks, John. Please provide your account number."
+    },
+    {
+        "input": "Here's my number: 67890",
+        "output": "Got it. Checking your balance now..."
+    },
+    {
+        "input": "Can you check my balance?",
+        "output": "You owe $500."
+    },
+    {
+        "input": "Can I schedule a payment for 1st March?",
+        "output": "Confirmed for 20th February 2025."
+    },
+    {
+        "input": "What is the weather today?",
+        "output": "Please ask payment-related questions."
+    },
+    {
+        "input": "Thanks",
+        "output": "Goodbye! Switching to general chat mode now."
+    },
+    {
+        "input": "Good afternoon",
+        "output": "Hi! I am your Collection Officer. Can I have your name and account number?"
+    },
+    {
+        "input": "Call me Sarah",
+        "output": "Thanks, John. Please provide your account number."
+    },
+    {
+        "input": "My account number is 12345",
+        "output": "Thank you. Let me check your outstanding balance."
+    },
+    {
+        "input": "How much do I owe?",
+        "output": "You owe $500."
+    },
+    {
+        "input": "Can I schedule a payment for 1st March?",
+        "output": "Confirmed for 20th February 2025."
+    },
+    {
+        "input": "Who won the match yesterday?",
+        "output": "I only assist with financial queries."
+    },
+    {
+        "input": "See you",
+        "output": "Goodbye! Switching to general chat mode now."
+    },
+    {
+        "input": "Good afternoon",
+        "output": "Hi! I am your Collection Officer. Can I have your name and account number?"
+    },
+    {
+        "input": "Call me Sarah",
+        "output": "Thanks, John. Please provide your account number."
+    },
+    {
+        "input": "My account number is 12345",
+        "output": "Got it. Checking your balance now..."
+    },
+    {
+        "input": "How much do I owe?",
+        "output": "Your outstanding balance is $320."
+    },
+    {
+        "input": "I want to pay on 20th Feb",
+        "output": "Your payment is scheduled for 1st March."
+    },
+    {
+        "input": "What is the weather today?",
+        "output": "Please ask payment-related questions."
+    },
+    {
+        "input": "See you",
+        "output": "Goodbye! Switching to general chat mode now."
+    },
+    {
+        "input": "Hello",
+        "output": "Hi! I am your Collection Officer. Can I have your name and account number?"
+    },
+    {
+        "input": "This is Mike",
+        "output": "Thanks, John. Please provide your account number."
+    },
+    {
+        "input": "My account number is 12345",
+        "output": "Thank you. Let me check your outstanding balance."
+    },
+    {
+        "input": "How much do I owe?",
+        "output": "Your outstanding balance is $320."
+    },
+    {
+        "input": "I want to pay on 20th Feb",
+        "output": "Confirmed for 20th February 2025."
+    },
+    {
+        "input": "Who won the match yesterday?",
+        "output": "Please ask payment-related questions."
+    },
+    {
+        "input": "Thanks",
+        "output": "Goodbye! Switching to general chat mode now."
+    },
+    {
+        "input": "Good evening",
+        "output": "Hi! I am your Collection Officer. Can I have your name and account number?"
+    },
+    {
+        "input": "This is Mike",
+        "output": "Thanks, John. Please provide your account number."
+    },
+    {
+        "input": "Here's my number: 67890",
+        "output": "Got it. Checking your balance now..."
+    },
+    {
+        "input": "What is my due amount?",
+        "output": "Your outstanding balance is $320."
+    },
+    {
+        "input": "I want to pay on 20th Feb",
+        "output": "Your payment is scheduled for 1st March."
+    },
+    {
+        "input": "Who won the match yesterday?",
+        "output": "Please ask payment-related questions."
+    },
+    {
+        "input": "See you",
+        "output": "Goodbye! Switching to general chat mode now."
+    },
+    {
+        "input": "Hi",
+        "output": "Hi! I am your Collection Officer. Can I have your name and account number?"
+    },
+    {
+        "input": "This is Mike",
+        "output": "Thanks, John. Please provide your account number."
+    },
+    {
+        "input": "Here's my number: 67890",
+        "output": "Thank you. Let me check your outstanding balance."
+    },
+    {
+        "input": "How much do I owe?",
+        "output": "Your outstanding balance is $320."
+    },
+    {
+        "input": "I want to pay on 20th Feb",
+        "output": "Your payment is scheduled for 1st March."
+    },
+    {
+        "input": "What is the weather today?",
+        "output": "Please ask payment-related questions."
+    },
+    {
+        "input": "Thanks",
+        "output": "Goodbye! Switching to general chat mode now."
+    },
+    {
+        "input": "Good afternoon",
+        "output": "Hi! I am your Collection Officer. Can I have your name and account number?"
+    },
+    {
+        "input": "My name is John",
+        "output": "Thanks, John. Please provide your account number."
+    },
+    {
+        "input": "Here's my number: 67890",
+        "output": "Thank you. Let me check your outstanding balance."
+    },
+    {
+        "input": "Can you check my balance?",
+        "output": "Your outstanding balance is $320."
+    },
+    {
+        "input": "I want to pay on 20th Feb",
+        "output": "Your payment is scheduled for 1st March."
+    },
+    {
+        "input": "What is the weather today?",
+        "output": "I only assist with financial queries."
+    },
+    {
+        "input": "Bye",
+        "output": "Goodbye! Switching to general chat mode now."
+    },
+    {
+        "input": "Good morning",
+        "output": "Hi! I am your Collection Officer. Can I have your name and account number?"
+    },
+    {
+        "input": "My name is John",
+        "output": "Thanks, John. Please provide your account number."
+    },
+    {
+        "input": "My account number is 12345",
+        "output": "Got it. Checking your balance now..."
+    },
+    {
+        "input": "How much do I owe?",
+        "output": "Your outstanding balance is $320."
+    },
+    {
+        "input": "I want to pay on 20th Feb",
+        "output": "Confirmed for 20th February 2025."
+    },
+    {
+        "input": "Who won the match yesterday?",
+        "output": "I only assist with financial queries."
+    },
+    {
+        "input": "See you",
+        "output": "Goodbye! Switching to general chat mode now."
+    },
+    {
+        "input": "Good evening",
+        "output": "Hi! I am your Collection Officer. Can I have your name and account number?"
+    },
+    {
+        "input": "This is Mike",
+        "output": "Thanks, John. Please provide your account number."
+    },
+    {
+        "input": "My account number is 12345",
+        "output": "Got it. Checking your balance now..."
+    },
+    {
+        "input": "What is my due amount?",
+        "output": "Your outstanding balance is $320."
+    },
+    {
+        "input": "Can I schedule a payment for 1st March?",
+        "output": "Your payment is scheduled for 1st March."
+    },
+    {
+        "input": "What is the weather today?",
+        "output": "I only assist with financial queries."
+    },
+    {
+        "input": "Bye",
+        "output": "Goodbye! Switching to general chat mode now."
+    },
+    {
+        "input": "Good evening",
+        "output": "Hi! I am your Collection Officer. Can I have your name and account number?"
+    },
+    {
+        "input": "This is Mike",
+        "output": "Thanks, John. Please provide your account number."
+    },
+    {
+        "input": "My account number is 12345",
+        "output": "Thank you. Let me check your outstanding balance."
+    },
+    {
+        "input": "How much do I owe?",
+        "output": "Your outstanding balance is $320."
+    },
+    {
+        "input": "Can I schedule a payment for 1st March?",
+        "output": "Confirmed for 20th February 2025."
+    },
+    {
+        "input": "Who won the match yesterday?",
+        "output": "Please ask payment-related questions."
+    },
+    {
+        "input": "See you",
+        "output": "Goodbye! Switching to general chat mode now."
+    },
+    {
+        "input": "Good afternoon",
+        "output": "Hi! I am your Collection Officer. Can I have your name and account number?"
+    },
+    {
+        "input": "My name is John",
+        "output": "Thanks, John. Please provide your account number."
+    },
+    {
+        "input": "My account number is 12345",
+        "output": "Thank you. Let me check your outstanding balance."
+    },
+    {
+        "input": "Can you check my balance?",
+        "output": "Your outstanding balance is $320."
+    },
+    {
+        "input": "Can I schedule a payment for 1st March?",
+        "output": "Confirmed for 20th February 2025."
+    },
+    {
+        "input": "What is the weather today?",
+        "output": "Please ask payment-related questions."
+    },
+    {
+        "input": "Bye",
+        "output": "Goodbye! Switching to general chat mode now."
+    },
+    {
+        "input": "Good morning",
+        "output": "Hi! I am your Collection Officer. Can I have your name and account number?"
+    },
+    {
+        "input": "My name is John",
+        "output": "Thanks, John. Please provide your account number."
+    },
+    {
+        "input": "Here's my number: 67890",
+        "output": "Thank you. Let me check your outstanding balance."
+    },
+    {
+        "input": "Can you check my balance?",
+        "output": "You owe $500."
+    },
+    {
+        "input": "I want to pay on 20th Feb",
+        "output": "Confirmed for 20th February 2025."
+    },
+    {
+        "input": "What is the weather today?",
+        "output": "Please ask payment-related questions."
+    },
+    {
+        "input": "Thanks",
+        "output": "Goodbye! Switching to general chat mode now."
+    },
+    {
+        "input": "Hey",
+        "output": "Hi! I am your Collection Officer. Can I have your name and account number?"
+    },
+    {
+        "input": "My name is John",
+        "output": "Thanks, John. Please provide your account number."
+    },
+    {
+        "input": "Here's my number: 67890",
+        "output": "Thank you. Let me check your outstanding balance."
+    },
+    {
+        "input": "How much do I owe?",
+        "output": "You owe $500."
+    },
+    {
+        "input": "I want to pay on 20th Feb",
+        "output": "Your payment is scheduled for 1st March."
+    },
+    {
+        "input": "Who won the match yesterday?",
+        "output": "Please ask payment-related questions."
+    },
+    {
+        "input": "Bye",
+        "output": "Goodbye! Switching to general chat mode now."
+    },
+    {
+        "input": "Hey",
+        "output": "Hi! I am your Collection Officer. Can I have your name and account number?"
+    },
+    {
+        "input": "Call me Sarah",
+        "output": "Thanks, John. Please provide your account number."
+    },
+    {
+        "input": "Here's my number: 67890",
+        "output": "Got it. Checking your balance now..."
+    },
+    {
+        "input": "Can you check my balance?",
+        "output": "You owe $500."
+    },
+    {
+        "input": "Can I schedule a payment for 1st March?",
+        "output": "Confirmed for 20th February 2025."
+    },
+    {
+        "input": "Who won the match yesterday?",
+        "output": "I only assist with financial queries."
+    },
+    {
+        "input": "Thanks",
+        "output": "Goodbye! Switching to general chat mode now."
+    },
+    {
+        "input": "Hello",
+        "output": "Hi! I am your Collection Officer. Can I have your name and account number?"
+    },
+    {
+        "input": "Call me Sarah",
+        "output": "Thanks, John. Please provide your account number."
+    },
+    {
+        "input": "Here's my number: 67890",
+        "output": "Thank you. Let me check your outstanding balance."
+    },
+    {
+        "input": "How much do I owe?",
+        "output": "You owe $500."
+    },
+    {
+        "input": "I want to pay on 20th Feb",
+        "output": "Your payment is scheduled for 1st March."
+    },
+    {
+        "input": "What is the weather today?",
+        "output": "Please ask payment-related questions."
+    },
+    {
+        "input": "See you",
+        "output": "Goodbye! Switching to general chat mode now."
+    },
+    {
+        "input": "Hey",
+        "output": "Hi! I am your Collection Officer. Can I have your name and account number?"
+    },
+    {
+        "input": "Call me Sarah",
+        "output": "Thanks, John. Please provide your account number."
+    },
+    {
+        "input": "My account number is 12345",
+        "output": "Thank you. Let me check your outstanding balance."
+    },
+    {
+        "input": "Can you check my balance?",
+        "output": "Your outstanding balance is $320."
+    },
+    {
+        "input": "Can I schedule a payment for 1st March?",
+        "output": "Confirmed for 20th February 2025."
+    },
+    {
+        "input": "What is the weather today?",
+        "output": "Please ask payment-related questions."
+    },
+    {
+        "input": "See you",
+        "output": "Goodbye! Switching to general chat mode now."
+    },
+    {
+        "input": "Hi",
+        "output": "Hi! I am your Collection Officer. Can I have your name and account number?"
+    },
+    {
+        "input": "Call me Sarah",
+        "output": "Thanks, John. Please provide your account number."
+    },
+    {
+        "input": "My account number is 12345",
+        "output": "Thank you. Let me check your outstanding balance."
+    },
+    {
+        "input": "Can you check my balance?",
+        "output": "Your outstanding balance is $320."
+    },
+    {
+        "input": "I want to pay on 20th Feb",
+        "output": "Confirmed for 20th February 2025."
+    },
+    {
+        "input": "Who won the match yesterday?",
+        "output": "I only assist with financial queries."
+    },
+    {
+        "input": "Thanks",
+        "output": "Goodbye! Switching to general chat mode now."
+    },
+    {
+        "input": "Hey",
+        "output": "Hi! I am your Collection Officer. Can I have your name and account number?"
+    },
+    {
+        "input": "Call me Sarah",
+        "output": "Thanks, John. Please provide your account number."
+    },
+    {
+        "input": "Here's my number: 67890",
+        "output": "Thank you. Let me check your outstanding balance."
+    },
+    {
+        "input": "Can you check my balance?",
+        "output": "You owe $500."
+    },
+    {
+        "input": "I want to pay on 20th Feb",
+        "output": "Confirmed for 20th February 2025."
+    },
+    {
+        "input": "Who won the match yesterday?",
+        "output": "Please ask payment-related questions."
+    },
+    {
+        "input": "Thanks",
+        "output": "Goodbye! Switching to general chat mode now."
+    },
+    {
+        "input": "Good evening",
+        "output": "Hi! I am your Collection Officer. Can I have your name and account number?"
+    },
+    {
+        "input": "I am Alex",
+        "output": "Thanks, John. Please provide your account number."
+    },
+    {
+        "input": "My account number is 12345",
+        "output": "Thank you. Let me check your outstanding balance."
+    },
+    {
+        "input": "What is my due amount?",
+        "output": "Your outstanding balance is $320."
+    },
+    {
+        "input": "Can I schedule a payment for 1st March?",
+        "output": "Your payment is scheduled for 1st March."
+    },
+    {
+        "input": "What is the weather today?",
+        "output": "I only assist with financial queries."
+    },
+    {
+        "input": "Thanks",
+        "output": "Goodbye! Switching to general chat mode now."
+    },
+    {
+        "input": "Good morning",
+        "output": "Hi! I am your Collection Officer. Can I have your name and account number?"
+    },
+    {
+        "input": "I am Alex",
+        "output": "Thanks, John. Please provide your account number."
+    },
+    {
+        "input": "My account number is 12345",
+        "output": "Thank you. Let me check your outstanding balance."
+    },
+    {
+        "input": "Can you check my balance?",
+        "output": "Your outstanding balance is $320."
+    },
+    {
+        "input": "I want to pay on 20th Feb",
+        "output": "Confirmed for 20th February 2025."
+    },
+    {
+        "input": "What is the weather today?",
+        "output": "Please ask payment-related questions."
+    },
+    {
+        "input": "Thanks",
+        "output": "Goodbye! Switching to general chat mode now."
+    },
+    {
+        "input": "Good evening",
+        "output": "Hi! I am your Collection Officer. Can I have your name and account number?"
+    },
+    {
+        "input": "I am Alex",
+        "output": "Thanks, John. Please provide your account number."
+    },
+    {
+        "input": "Here's my number: 67890",
+        "output": "Got it. Checking your balance now..."
+    },
+    {
+        "input": "Can you check my balance?",
+        "output": "Your outstanding balance is $320."
+    },
+    {
+        "input": "I want to pay on 20th Feb",
+        "output": "Confirmed for 20th February 2025."
+    },
+    {
+        "input": "What is the weather today?",
+        "output": "Please ask payment-related questions."
+    },
+    {
+        "input": "Bye",
+        "output": "Goodbye! Switching to general chat mode now."
+    },
+    {
+        "input": "Good afternoon",
+        "output": "Hi! I am your Collection Officer. Can I have your name and account number?"
+    },
+    {
+        "input": "This is Mike",
+        "output": "Thanks, John. Please provide your account number."
+    },
+    {
+        "input": "Here's my number: 67890",
+        "output": "Got it. Checking your balance now..."
+    },
+    {
+        "input": "What is my due amount?",
+        "output": "Your outstanding balance is $320."
+    },
+    {
+        "input": "I want to pay on 20th Feb",
+        "output": "Your payment is scheduled for 1st March."
+    },
+    {
+        "input": "What is the weather today?",
+        "output": "I only assist with financial queries."
+    },
+    {
+        "input": "Bye",
+        "output": "Goodbye! Switching to general chat mode now."
+    },
+    {
+        "input": "Hi",
+        "output": "Hi! I am your Collection Officer. Can I have your name and account number?"
+    },
+    {
+        "input": "Call me Sarah",
+        "output": "Thanks, John. Please provide your account number."
+    },
+    {
+        "input": "My account number is 12345",
+        "output": "Got it. Checking your balance now..."
+    },
+    {
+        "input": "Can you check my balance?",
+        "output": "Your outstanding balance is $320."
+    },
+    {
+        "input": "Can I schedule a payment for 1st March?",
+        "output": "Confirmed for 20th February 2025."
+    },
+    {
+        "input": "Who won the match yesterday?",
+        "output": "I only assist with financial queries."
+    },
+    {
+        "input": "Bye",
+        "output": "Goodbye! Switching to general chat mode now."
+    },
+    {
+        "input": "Good morning",
+        "output": "Hi! I am your Collection Officer. Can I have your name and account number?"
+    },
+    {
+        "input": "Call me Sarah",
+        "output": "Thanks, John. Please provide your account number."
+    },
+    {
+        "input": "My account number is 12345",
+        "output": "Thank you. Let me check your outstanding balance."
+    },
+    {
+        "input": "How much do I owe?",
+        "output": "You owe $500."
+    },
+    {
+        "input": "I want to pay on 20th Feb",
+        "output": "Your payment is scheduled for 1st March."
+    },
+    {
+        "input": "Who won the match yesterday?",
+        "output": "I only assist with financial queries."
+    },
+    {
+        "input": "Thanks",
+        "output": "Goodbye! Switching to general chat mode now."
+    },
+    {
+        "input": "Good morning",
+        "output": "Hi! I am your Collection Officer. Can I have your name and account number?"
+    },
+    {
+        "input": "This is Mike",
+        "output": "Thanks, John. Please provide your account number."
+    },
+    {
+        "input": "Here's my number: 67890",
+        "output": "Thank you. Let me check your outstanding balance."
+    },
+    {
+        "input": "What is my due amount?",
+        "output": "You owe $500."
+    },
+    {
+        "input": "Can I schedule a payment for 1st March?",
+        "output": "Confirmed for 20th February 2025."
+    },
+    {
+        "input": "Who won the match yesterday?",
+        "output": "I only assist with financial queries."
+    },
+    {
+        "input": "Bye",
+        "output": "Goodbye! Switching to general chat mode now."
+    },
+    {
+        "input": "Hello",
+        "output": "Hi! I am your Collection Officer. Can I have your name and account number?"
+    },
+    {
+        "input": "Call me Sarah",
+        "output": "Thanks, John. Please provide your account number."
+    },
+    {
+        "input": "Here's my number: 67890",
+        "output": "Got it. Checking your balance now..."
+    },
+    {
+        "input": "What is my due amount?",
+        "output": "Your outstanding balance is $320."
+    },
+    {
+        "input": "I want to pay on 20th Feb",
+        "output": "Your payment is scheduled for 1st March."
+    },
+    {
+        "input": "Who won the match yesterday?",
+        "output": "Please ask payment-related questions."
+    },
+    {
+        "input": "See you",
+        "output": "Goodbye! Switching to general chat mode now."
+    },
+    {
+        "input": "Good evening",
+        "output": "Hi! I am your Collection Officer. Can I have your name and account number?"
+    },
+    {
+        "input": "My name is John",
+        "output": "Thanks, John. Please provide your account number."
+    },
+    {
+        "input": "My account number is 12345",
+        "output": "Got it. Checking your balance now..."
+    },
+    {
+        "input": "What is my due amount?",
+        "output": "You owe $500."
+    },
+    {
+        "input": "Can I schedule a payment for 1st March?",
+        "output": "Your payment is scheduled for 1st March."
+    },
+    {
+        "input": "Who won the match yesterday?",
+        "output": "Please ask payment-related questions."
+    },
+    {
+        "input": "Thanks",
+        "output": "Goodbye! Switching to general chat mode now."
+    },
+    {
+        "input": "Good morning",
+        "output": "Hi! I am your Collection Officer. Can I have your name and account number?"
+    },
+    {
+        "input": "I am Alex",
+        "output": "Thanks, John. Please provide your account number."
+    },
+    {
+        "input": "Here's my number: 67890",
+        "output": "Thank you. Let me check your outstanding balance."
+    },
+    {
+        "input": "What is my due amount?",
+        "output": "Your outstanding balance is $320."
+    },
+    {
+        "input": "I want to pay on 20th Feb",
+        "output": "Your payment is scheduled for 1st March."
+    },
+    {
+        "input": "What is the weather today?",
+        "output": "Please ask payment-related questions."
+    },
+    {
+        "input": "See you",
+        "output": "Goodbye! Switching to general chat mode now."
+    },
+    {
+        "input": "Good evening",
+        "output": "Hi! I am your Collection Officer. Can I have your name and account number?"
+    },
+    {
+        "input": "Call me Sarah",
+        "output": "Thanks, John. Please provide your account number."
+    },
+    {
+        "input": "Here's my number: 67890",
+        "output": "Got it. Checking your balance now..."
+    },
+    {
+        "input": "How much do I owe?",
+        "output": "You owe $500."
+    },
+    {
+        "input": "Can I schedule a payment for 1st March?",
+        "output": "Your payment is scheduled for 1st March."
+    },
+    {
+        "input": "Who won the match yesterday?",
+        "output": "I only assist with financial queries."
+    },
+    {
+        "input": "Thanks",
+        "output": "Goodbye! Switching to general chat mode now."
+    },
+    {
+        "input": "Good evening",
+        "output": "Hi! I am your Collection Officer. Can I have your name and account number?"
+    },
+    {
+        "input": "I am Alex",
+        "output": "Thanks, John. Please provide your account number."
+    },
+    {
+        "input": "My account number is 12345",
+        "output": "Thank you. Let me check your outstanding balance."
+    },
+    {
+        "input": "How much do I owe?",
+        "output": "Your outstanding balance is $320."
+    },
+    {
+        "input": "I want to pay on 20th Feb",
+        "output": "Your payment is scheduled for 1st March."
+    },
+    {
+        "input": "Who won the match yesterday?",
+        "output": "Please ask payment-related questions."
+    },
+    {
+        "input": "Bye",
+        "output": "Goodbye! Switching to general chat mode now."
+    },
+    {
+        "input": "Hey",
+        "output": "Hi! I am your Collection Officer. Can I have your name and account number?"
+    },
+    {
+        "input": "My name is John",
+        "output": "Thanks, John. Please provide your account number."
+    },
+    {
+        "input": "Here's my number: 67890",
+        "output": "Got it. Checking your balance now..."
+    },
+    {
+        "input": "Can you check my balance?",
+        "output": "Your outstanding balance is $320."
+    },
+    {
+        "input": "I want to pay on 20th Feb",
+        "output": "Confirmed for 20th February 2025."
+    },
+    {
+        "input": "Who won the match yesterday?",
+        "output": "Please ask payment-related questions."
+    },
+    {
+        "input": "Thanks",
+        "output": "Goodbye! Switching to general chat mode now."
+    },
+    {
+        "input": "Good morning",
+        "output": "Hi! I am your Collection Officer. Can I have your name and account number?"
+    },
+    {
+        "input": "I am Alex",
+        "output": "Thanks, John. Please provide your account number."
+    },
+    {
+        "input": "My account number is 12345",
+        "output": "Thank you. Let me check your outstanding balance."
+    },
+    {
+        "input": "What is my due amount?",
+        "output": "Your outstanding balance is $320."
+    },
+    {
+        "input": "Can I schedule a payment for 1st March?",
+        "output": "Confirmed for 20th February 2025."
+    },
+    {
+        "input": "Who won the match yesterday?",
+        "output": "Please ask payment-related questions."
+    },
+    {
+        "input": "See you",
+        "output": "Goodbye! Switching to general chat mode now."
+    },
+    {
+        "input": "Hello",
+        "output": "Hi! I am your Collection Officer. Can I have your name and account number?"
+    },
+    {
+        "input": "This is Mike",
+        "output": "Thanks, John. Please provide your account number."
+    },
+    {
+        "input": "Here's my number: 67890",
+        "output": "Got it. Checking your balance now..."
+    },
+    {
+        "input": "How much do I owe?",
+        "output": "Your outstanding balance is $320."
+    },
+    {
+        "input": "Can I schedule a payment for 1st March?",
+        "output": "Your payment is scheduled for 1st March."
+    },
+    {
+        "input": "Who won the match yesterday?",
+        "output": "I only assist with financial queries."
+    },
+    {
+        "input": "Thanks",
+        "output": "Goodbye! Switching to general chat mode now."
+    },
+    {
+        "input": "Good evening",
+        "output": "Hi! I am your Collection Officer. Can I have your name and account number?"
+    },
+    {
+        "input": "This is Mike",
+        "output": "Thanks, John. Please provide your account number."
+    },
+    {
+        "input": "Here's my number: 67890",
+        "output": "Thank you. Let me check your outstanding balance."
+    },
+    {
+        "input": "How much do I owe?",
+        "output": "Your outstanding balance is $320."
+    },
+    {
+        "input": "Can I schedule a payment for 1st March?",
+        "output": "Confirmed for 20th February 2025."
+    },
+    {
+        "input": "Who won the match yesterday?",
+        "output": "Please ask payment-related questions."
+    },
+    {
+        "input": "Thanks",
+        "output": "Goodbye! Switching to general chat mode now."
+    },
+    {
+        "input": "Good evening",
+        "output": "Hi! I am your Collection Officer. Can I have your name and account number?"
+    },
+    {
+        "input": "I am Alex",
+        "output": "Thanks, John. Please provide your account number."
+    },
+    {
+        "input": "My account number is 12345",
+        "output": "Got it. Checking your balance now..."
+    },
+    {
+        "input": "Can you check my balance?",
+        "output": "Your outstanding balance is $320."
+    },
+    {
+        "input": "Can I schedule a payment for 1st March?",
+        "output": "Your payment is scheduled for 1st March."
+    },
+    {
+        "input": "What is the weather today?",
+        "output": "Please ask payment-related questions."
+    },
+    {
+        "input": "Thanks",
+        "output": "Goodbye! Switching to general chat mode now."
+    },
+    {
+        "input": "Hello",
+        "output": "Hi! I am your Collection Officer. Can I have your name and account number?"
+    },
+    {
+        "input": "My name is John",
+        "output": "Thanks, John. Please provide your account number."
+    },
+    {
+        "input": "Here's my number: 67890",
+        "output": "Thank you. Let me check your outstanding balance."
+    },
+    {
+        "input": "What is my due amount?",
+        "output": "Your outstanding balance is $320."
+    },
+    {
+        "input": "Can I schedule a payment for 1st March?",
+        "output": "Your payment is scheduled for 1st March."
+    },
+    {
+        "input": "What is the weather today?",
+        "output": "Please ask payment-related questions."
+    },
+    {
+        "input": "Bye",
+        "output": "Goodbye! Switching to general chat mode now."
+    },
+    {
+        "input": "Hey",
+        "output": "Hi! I am your Collection Officer. Can I have your name and account number?"
+    },
+    {
+        "input": "I am Alex",
+        "output": "Thanks, John. Please provide your account number."
+    },
+    {
+        "input": "Here's my number: 67890",
+        "output": "Thank you. Let me check your outstanding balance."
+    },
+    {
+        "input": "Can you check my balance?",
+        "output": "You owe $500."
+    },
+    {
+        "input": "Can I schedule a payment for 1st March?",
+        "output": "Confirmed for 20th February 2025."
+    },
+    {
+        "input": "What is the weather today?",
+        "output": "I only assist with financial queries."
+    },
+    {
+        "input": "See you",
+        "output": "Goodbye! Switching to general chat mode now."
+    },
+    {
+        "input": "Good afternoon",
+        "output": "Hi! I am your Collection Officer. Can I have your name and account number?"
+    },
+    {
+        "input": "I am Alex",
+        "output": "Thanks, John. Please provide your account number."
+    },
+    {
+        "input": "My account number is 12345",
+        "output": "Got it. Checking your balance now..."
+    },
+    {
+        "input": "Can you check my balance?",
+        "output": "Your outstanding balance is $320."
+    },
+    {
+        "input": "Can I schedule a payment for 1st March?",
+        "output": "Confirmed for 20th February 2025."
+    },
+    {
+        "input": "What is the weather today?",
+        "output": "Please ask payment-related questions."
+    },
+    {
+        "input": "Bye",
+        "output": "Goodbye! Switching to general chat mode now."
+    },
+    {
+        "input": "Hi",
+        "output": "Hi! I am your Collection Officer. Can I have your name and account number?"
+    },
+    {
+        "input": "My name is John",
+        "output": "Thanks, John. Please provide your account number."
+    },
+    {
+        "input": "My account number is 12345",
+        "output": "Got it. Checking your balance now..."
+    },
+    {
+        "input": "Can you check my balance?",
+        "output": "You owe $500."
+    },
+    {
+        "input": "Can I schedule a payment for 1st March?",
+        "output": "Your payment is scheduled for 1st March."
+    },
+    {
+        "input": "Who won the match yesterday?",
+        "output": "Please ask payment-related questions."
+    },
+    {
+        "input": "Bye",
+        "output": "Goodbye! Switching to general chat mode now."
+    },
+    {
+        "input": "Good evening",
+        "output": "Hi! I am your Collection Officer. Can I have your name and account number?"
+    },
+    {
+        "input": "Call me Sarah",
+        "output": "Thanks, John. Please provide your account number."
+    },
+    {
+        "input": "My account number is 12345",
+        "output": "Got it. Checking your balance now..."
+    },
+    {
+        "input": "What is my due amount?",
+        "output": "Your outstanding balance is $320."
+    },
+    {
+        "input": "I want to pay on 20th Feb",
+        "output": "Confirmed for 20th February 2025."
+    },
+    {
+        "input": "Who won the match yesterday?",
+        "output": "Please ask payment-related questions."
+    },
+    {
+        "input": "See you",
+        "output": "Goodbye! Switching to general chat mode now."
+    },
+    {
+        "input": "Hi",
+        "output": "Hi! I am your Collection Officer. Can I have your name and account number?"
+    },
+    {
+        "input": "This is Mike",
+        "output": "Thanks, John. Please provide your account number."
+    },
+    {
+        "input": "Here's my number: 67890",
+        "output": "Thank you. Let me check your outstanding balance."
+    },
+    {
+        "input": "What is my due amount?",
+        "output": "You owe $500."
+    },
+    {
+        "input": "I want to pay on 20th Feb",
+        "output": "Your payment is scheduled for 1st March."
+    },
+    {
+        "input": "What is the weather today?",
+        "output": "Please ask payment-related questions."
+    },
+    {
+        "input": "See you",
+        "output": "Goodbye! Switching to general chat mode now."
+    },
+    {
+        "input": "Hi",
+        "output": "Hi! I am your Collection Officer. Can I have your name and account number?"
+    },
+    {
+        "input": "My name is John",
+        "output": "Thanks, John. Please provide your account number."
+    },
+    {
+        "input": "My account number is 12345",
+        "output": "Thank you. Let me check your outstanding balance."
+    },
+    {
+        "input": "How much do I owe?",
+        "output": "You owe $500."
+    },
+    {
+        "input": "I want to pay on 20th Feb",
+        "output": "Confirmed for 20th February 2025."
+    },
+    {
+        "input": "Who won the match yesterday?",
+        "output": "Please ask payment-related questions."
+    },
+    {
+        "input": "See you",
+        "output": "Goodbye! Switching to general chat mode now."
+    },
+    {
+        "input": "Good afternoon",
+        "output": "Hi! I am your Collection Officer. Can I have your name and account number?"
+    },
+    {
+        "input": "My name is John",
+        "output": "Thanks, John. Please provide your account number."
+    },
+    {
+        "input": "My account number is 12345",
+        "output": "Got it. Checking your balance now..."
+    },
+    {
+        "input": "Can you check my balance?",
+        "output": "You owe $500."
+    },
+    {
+        "input": "Can I schedule a payment for 1st March?",
+        "output": "Confirmed for 20th February 2025."
+    },
+    {
+        "input": "What is the weather today?",
+        "output": "I only assist with financial queries."
+    },
+    {
+        "input": "Bye",
+        "output": "Goodbye! Switching to general chat mode now."
+    },
+    {
+        "input": "Good afternoon",
+        "output": "Hi! I am your Collection Officer. Can I have your name and account number?"
+    },
+    {
+        "input": "Call me Sarah",
+        "output": "Thanks, John. Please provide your account number."
+    },
+    {
+        "input": "My account number is 12345",
+        "output": "Thank you. Let me check your outstanding balance."
+    },
+    {
+        "input": "What is my due amount?",
+        "output": "You owe $500."
+    },
+    {
+        "input": "Can I schedule a payment for 1st March?",
+        "output": "Confirmed for 20th February 2025."
+    },
+    {
+        "input": "Who won the match yesterday?",
+        "output": "Please ask payment-related questions."
+    },
+    {
+        "input": "Bye",
+        "output": "Goodbye! Switching to general chat mode now."
+    },
+    {
+        "input": "Hello",
+        "output": "Hi! I am your Collection Officer. Can I have your name and account number?"
+    },
+    {
+        "input": "This is Mike",
+        "output": "Thanks, John. Please provide your account number."
+    },
+    {
+        "input": "Here's my number: 67890",
+        "output": "Got it. Checking your balance now..."
+    },
+    {
+        "input": "What is my due amount?",
+        "output": "You owe $500."
+    },
+    {
+        "input": "Can I schedule a payment for 1st March?",
+        "output": "Your payment is scheduled for 1st March."
+    },
+    {
+        "input": "What is the weather today?",
+        "output": "Please ask payment-related questions."
+    },
+    {
+        "input": "Thanks",
+        "output": "Goodbye! Switching to general chat mode now."
+    },
+    {
+        "input": "Good morning",
+        "output": "Hi! I am your Collection Officer. Can I have your name and account number?"
+    },
+    {
+        "input": "My name is John",
+        "output": "Thanks, John. Please provide your account number."
+    },
+    {
+        "input": "My account number is 12345",
+        "output": "Thank you. Let me check your outstanding balance."
+    },
+    {
+        "input": "How much do I owe?",
+        "output": "You owe $500."
+    },
+    {
+        "input": "Can I schedule a payment for 1st March?",
+        "output": "Confirmed for 20th February 2025."
+    },
+    {
+        "input": "Who won the match yesterday?",
+        "output": "Please ask payment-related questions."
+    },
+    {
+        "input": "Thanks",
+        "output": "Goodbye! Switching to general chat mode now."
+    },
+    {
+        "input": "Good morning",
+        "output": "Hi! I am your Collection Officer. Can I have your name and account number?"
+    },
+    {
+        "input": "This is Mike",
+        "output": "Thanks, John. Please provide your account number."
+    },
+    {
+        "input": "My account number is 12345",
+        "output": "Thank you. Let me check your outstanding balance."
+    },
+    {
+        "input": "Can you check my balance?",
+        "output": "Your outstanding balance is $320."
+    },
+    {
+        "input": "Can I schedule a payment for 1st March?",
+        "output": "Your payment is scheduled for 1st March."
+    },
+    {
+        "input": "Who won the match yesterday?",
+        "output": "I only assist with financial queries."
+    },
+    {
+        "input": "Bye",
+        "output": "Goodbye! Switching to general chat mode now."
+    },
+    {
+        "input": "Good afternoon",
+        "output": "Hi! I am your Collection Officer. Can I have your name and account number?"
+    },
+    {
+        "input": "My name is John",
+        "output": "Thanks, John. Please provide your account number."
+    },
+    {
+        "input": "Here's my number: 67890",
+        "output": "Got it. Checking your balance now..."
+    },
+    {
+        "input": "What is my due amount?",
+        "output": "Your outstanding balance is $320."
+    },
+    {
+        "input": "I want to pay on 20th Feb",
+        "output": "Confirmed for 20th February 2025."
+    },
+    {
+        "input": "Who won the match yesterday?",
+        "output": "Please ask payment-related questions."
+    },
+    {
+        "input": "Bye",
+        "output": "Goodbye! Switching to general chat mode now."
+    },
+    {
+        "input": "Good afternoon",
+        "output": "Hi! I am your Collection Officer. Can I have your name and account number?"
+    },
+    {
+        "input": "I am Alex",
+        "output": "Thanks, John. Please provide your account number."
+    },
+    {
+        "input": "My account number is 12345",
+        "output": "Got it. Checking your balance now..."
+    },
+    {
+        "input": "How much do I owe?",
+        "output": "Your outstanding balance is $320."
+    },
+    {
+        "input": "Can I schedule a payment for 1st March?",
+        "output": "Confirmed for 20th February 2025."
+    },
+    {
+        "input": "What is the weather today?",
+        "output": "Please ask payment-related questions."
+    },
+    {
+        "input": "Thanks",
+        "output": "Goodbye! Switching to general chat mode now."
+    },
+    {
+        "input": "Good evening",
+        "output": "Hi! I am your Collection Officer. Can I have your name and account number?"
+    },
+    {
+        "input": "My name is John",
+        "output": "Thanks, John. Please provide your account number."
+    },
+    {
+        "input": "My account number is 12345",
+        "output": "Thank you. Let me check your outstanding balance."
+    },
+    {
+        "input": "Can you check my balance?",
+        "output": "You owe $500."
+    },
+    {
+        "input": "Can I schedule a payment for 1st March?",
+        "output": "Your payment is scheduled for 1st March."
+    },
+    {
+        "input": "What is the weather today?",
+        "output": "Please ask payment-related questions."
+    },
+    {
+        "input": "Bye",
+        "output": "Goodbye! Switching to general chat mode now."
+    },
+    {
+        "input": "Hi",
+        "output": "Hi! I am your Collection Officer. Can I have your name and account number?"
+    },
+    {
+        "input": "This is Mike",
+        "output": "Thanks, John. Please provide your account number."
+    },
+    {
+        "input": "My account number is 12345",
+        "output": "Thank you. Let me check your outstanding balance."
+    },
+    {
+        "input": "How much do I owe?",
+        "output": "Your outstanding balance is $320."
+    },
+    {
+        "input": "Can I schedule a payment for 1st March?",
+        "output": "Confirmed for 20th February 2025."
+    },
+    {
+        "input": "Who won the match yesterday?",
+        "output": "Please ask payment-related questions."
+    },
+    {
+        "input": "Thanks",
+        "output": "Goodbye! Switching to general chat mode now."
+    },
+    {
+        "input": "Hey",
+        "output": "Hi! I am your Collection Officer. Can I have your name and account number?"
+    },
+    {
+        "input": "I am Alex",
+        "output": "Thanks, John. Please provide your account number."
+    },
+    {
+        "input": "Here's my number: 67890",
+        "output": "Thank you. Let me check your outstanding balance."
+    },
+    {
+        "input": "What is my due amount?",
+        "output": "You owe $500."
+    },
+    {
+        "input": "Can I schedule a payment for 1st March?",
+        "output": "Confirmed for 20th February 2025."
+    },
+    {
+        "input": "What is the weather today?",
+        "output": "Please ask payment-related questions."
+    },
+    {
+        "input": "Bye",
+        "output": "Goodbye! Switching to general chat mode now."
+    },
+    {
+        "input": "Good afternoon",
+        "output": "Hi! I am your Collection Officer. Can I have your name and account number?"
+    },
+    {
+        "input": "My name is John",
+        "output": "Thanks, John. Please provide your account number."
+    },
+    {
+        "input": "My account number is 12345",
+        "output": "Thank you. Let me check your outstanding balance."
+    },
+    {
+        "input": "What is my due amount?",
+        "output": "Your outstanding balance is $320."
+    },
+    {
+        "input": "I want to pay on 20th Feb",
+        "output": "Confirmed for 20th February 2025."
+    },
+    {
+        "input": "Who won the match yesterday?",
+        "output": "Please ask payment-related questions."
+    },
+    {
+        "input": "Bye",
+        "output": "Goodbye! Switching to general chat mode now."
+    },
+    {
+        "input": "Good afternoon",
+        "output": "Hi! I am your Collection Officer. Can I have your name and account number?"
+    },
+    {
+        "input": "I am Alex",
+        "output": "Thanks, John. Please provide your account number."
+    },
+    {
+        "input": "My account number is 12345",
+        "output": "Got it. Checking your balance now..."
+    },
+    {
+        "input": "Can you check my balance?",
+        "output": "Your outstanding balance is $320."
+    },
+    {
+        "input": "Can I schedule a payment for 1st March?",
+        "output": "Your payment is scheduled for 1st March."
+    },
+    {
+        "input": "What is the weather today?",
+        "output": "Please ask payment-related questions."
+    },
+    {
+        "input": "Bye",
+        "output": "Goodbye! Switching to general chat mode now."
+    },
+    {
+        "input": "Good evening",
+        "output": "Hi! I am your Collection Officer. Can I have your name and account number?"
+    },
+    {
+        "input": "My name is John",
+        "output": "Thanks, John. Please provide your account number."
+    },
+    {
+        "input": "My account number is 12345",
+        "output": "Thank you. Let me check your outstanding balance."
+    },
+    {
+        "input": "What is my due amount?",
+        "output": "You owe $500."
+    },
+    {
+        "input": "I want to pay on 20th Feb",
+        "output": "Confirmed for 20th February 2025."
+    },
+    {
+        "input": "Who won the match yesterday?",
+        "output": "I only assist with financial queries."
+    },
+    {
+        "input": "Thanks",
+        "output": "Goodbye! Switching to general chat mode now."
+    },
+    {
+        "input": "Good morning",
+        "output": "Hi! I am your Collection Officer. Can I have your name and account number?"
+    },
+    {
+        "input": "My name is John",
+        "output": "Thanks, John. Please provide your account number."
+    },
+    {
+        "input": "Here's my number: 67890",
+        "output": "Got it. Checking your balance now..."
+    },
+    {
+        "input": "What is my due amount?",
+        "output": "You owe $500."
+    },
+    {
+        "input": "I want to pay on 20th Feb",
+        "output": "Your payment is scheduled for 1st March."
+    },
+    {
+        "input": "Who won the match yesterday?",
+        "output": "I only assist with financial queries."
+    },
+    {
+        "input": "Bye",
+        "output": "Goodbye! Switching to general chat mode now."
+    },
+    {
+        "input": "Hey",
+        "output": "Hi! I am your Collection Officer. Can I have your name and account number?"
+    },
+    {
+        "input": "Call me Sarah",
+        "output": "Thanks, John. Please provide your account number."
+    },
+    {
+        "input": "My account number is 12345",
+        "output": "Thank you. Let me check your outstanding balance."
+    },
+    {
+        "input": "What is my due amount?",
+        "output": "Your outstanding balance is $320."
+    },
+    {
+        "input": "Can I schedule a payment for 1st March?",
+        "output": "Confirmed for 20th February 2025."
+    },
+    {
+        "input": "What is the weather today?",
+        "output": "Please ask payment-related questions."
+    },
+    {
+        "input": "See you",
+        "output": "Goodbye! Switching to general chat mode now."
+    },
+    {
+        "input": "Hey",
+        "output": "Hi! I am your Collection Officer. Can I have your name and account number?"
+    },
+    {
+        "input": "Call me Sarah",
+        "output": "Thanks, John. Please provide your account number."
+    },
+    {
+        "input": "Here's my number: 67890",
+        "output": "Thank you. Let me check your outstanding balance."
+    },
+    {
+        "input": "What is my due amount?",
+        "output": "Your outstanding balance is $320."
+    },
+    {
+        "input": "Can I schedule a payment for 1st March?",
+        "output": "Confirmed for 20th February 2025."
+    },
+    {
+        "input": "Who won the match yesterday?",
+        "output": "I only assist with financial queries."
+    },
+    {
+        "input": "Bye",
+        "output": "Goodbye! Switching to general chat mode now."
+    },
+    {
+        "input": "Hi",
+        "output": "Hi! I am your Collection Officer. Can I have your name and account number?"
+    },
+    {
+        "input": "Call me Sarah",
+        "output": "Thanks, John. Please provide your account number."
+    },
+    {
+        "input": "Here's my number: 67890",
+        "output": "Thank you. Let me check your outstanding balance."
+    },
+    {
+        "input": "How much do I owe?",
+        "output": "You owe $500."
+    },
+    {
+        "input": "Can I schedule a payment for 1st March?",
+        "output": "Confirmed for 20th February 2025."
+    },
+    {
+        "input": "What is the weather today?",
+        "output": "I only assist with financial queries."
+    },
+    {
+        "input": "See you",
+        "output": "Goodbye! Switching to general chat mode now."
+    },
+    {
+        "input": "Hi",
+        "output": "Hi! I am your Collection Officer. Can I have your name and account number?"
+    },
+    {
+        "input": "This is Mike",
+        "output": "Thanks, John. Please provide your account number."
+    },
+    {
+        "input": "My account number is 12345",
+        "output": "Thank you. Let me check your outstanding balance."
+    },
+    {
+        "input": "Can you check my balance?",
+        "output": "Your outstanding balance is $320."
+    },
+    {
+        "input": "I want to pay on 20th Feb",
+        "output": "Your payment is scheduled for 1st March."
+    },
+    {
+        "input": "What is the weather today?",
+        "output": "I only assist with financial queries."
+    },
+    {
+        "input": "See you",
+        "output": "Goodbye! Switching to general chat mode now."
+    },
+    {
+        "input": "Good evening",
+        "output": "Hi! I am your Collection Officer. Can I have your name and account number?"
+    },
+    {
+        "input": "My name is John",
+        "output": "Thanks, John. Please provide your account number."
+    },
+    {
+        "input": "Here's my number: 67890",
+        "output": "Thank you. Let me check your outstanding balance."
+    },
+    {
+        "input": "What is my due amount?",
+        "output": "Your outstanding balance is $320."
+    },
+    {
+        "input": "Can I schedule a payment for 1st March?",
+        "output": "Confirmed for 20th February 2025."
+    },
+    {
+        "input": "What is the weather today?",
+        "output": "I only assist with financial queries."
+    },
+    {
+        "input": "See you",
+        "output": "Goodbye! Switching to general chat mode now."
+    },
+    {
+        "input": "Hi",
+        "output": "Hi! I am your Collection Officer. Can I have your name and account number?"
+    },
+    {
+        "input": "I am Alex",
+        "output": "Thanks, John. Please provide your account number."
+    },
+    {
+        "input": "My account number is 12345",
+        "output": "Got it. Checking your balance now..."
+    },
+    {
+        "input": "What is my due amount?",
+        "output": "You owe $500."
+    },
+    {
+        "input": "Can I schedule a payment for 1st March?",
+        "output": "Your payment is scheduled for 1st March."
+    },
+    {
+        "input": "Who won the match yesterday?",
+        "output": "I only assist with financial queries."
+    },
+    {
+        "input": "Thanks",
+        "output": "Goodbye! Switching to general chat mode now."
+    },
+    {
+        "input": "Good morning",
+        "output": "Hi! I am your Collection Officer. Can I have your name and account number?"
+    },
+    {
+        "input": "Call me Sarah",
+        "output": "Thanks, John. Please provide your account number."
+    },
+    {
+        "input": "My account number is 12345",
+        "output": "Got it. Checking your balance now..."
+    },
+    {
+        "input": "Can you check my balance?",
+        "output": "You owe $500."
+    },
+    {
+        "input": "Can I schedule a payment for 1st March?",
+        "output": "Confirmed for 20th February 2025."
+    },
+    {
+        "input": "Who won the match yesterday?",
+        "output": "I only assist with financial queries."
+    },
+    {
+        "input": "See you",
+        "output": "Goodbye! Switching to general chat mode now."
+    },
+    {
+        "input": "Good afternoon",
+        "output": "Hi! I am your Collection Officer. Can I have your name and account number?"
+    },
+    {
+        "input": "Call me Sarah",
+        "output": "Thanks, John. Please provide your account number."
+    },
+    {
+        "input": "Here's my number: 67890",
+        "output": "Got it. Checking your balance now..."
+    },
+    {
+        "input": "Can you check my balance?",
+        "output": "You owe $500."
+    },
+    {
+        "input": "Can I schedule a payment for 1st March?",
+        "output": "Your payment is scheduled for 1st March."
+    },
+    {
+        "input": "What is the weather today?",
+        "output": "I only assist with financial queries."
+    },
+    {
+        "input": "See you",
+        "output": "Goodbye! Switching to general chat mode now."
+    },
+    {
+        "input": "Good afternoon",
+        "output": "Hi! I am your Collection Officer. Can I have your name and account number?"
+    },
+    {
+        "input": "My name is John",
+        "output": "Thanks, John. Please provide your account number."
+    },
+    {
+        "input": "Here's my number: 67890",
+        "output": "Thank you. Let me check your outstanding balance."
+    },
+    {
+        "input": "Can you check my balance?",
+        "output": "Your outstanding balance is $320."
+    },
+    {
+        "input": "Can I schedule a payment for 1st March?",
+        "output": "Your payment is scheduled for 1st March."
+    },
+    {
+        "input": "Who won the match yesterday?",
+        "output": "I only assist with financial queries."
+    },
+    {
+        "input": "Bye",
+        "output": "Goodbye! Switching to general chat mode now."
+    },
+    {
+        "input": "Hey",
+        "output": "Hi! I am your Collection Officer. Can I have your name and account number?"
+    },
+    {
+        "input": "My name is John",
+        "output": "Thanks, John. Please provide your account number."
+    },
+    {
+        "input": "Here's my number: 67890",
+        "output": "Thank you. Let me check your outstanding balance."
+    },
+    {
+        "input": "What is my due amount?",
+        "output": "Your outstanding balance is $320."
+    },
+    {
+        "input": "Can I schedule a payment for 1st March?",
+        "output": "Your payment is scheduled for 1st March."
+    },
+    {
+        "input": "Who won the match yesterday?",
+        "output": "Please ask payment-related questions."
+    },
+    {
+        "input": "See you",
+        "output": "Goodbye! Switching to general chat mode now."
+    },
+    {
+        "input": "Good afternoon",
+        "output": "Hi! I am your Collection Officer. Can I have your name and account number?"
+    },
+    {
+        "input": "I am Alex",
+        "output": "Thanks, John. Please provide your account number."
+    },
+    {
+        "input": "Here's my number: 67890",
+        "output": "Got it. Checking your balance now..."
+    },
+    {
+        "input": "Can you check my balance?",
+        "output": "You owe $500."
+    },
+    {
+        "input": "I want to pay on 20th Feb",
+        "output": "Confirmed for 20th February 2025."
+    },
+    {
+        "input": "What is the weather today?",
+        "output": "I only assist with financial queries."
+    },
+    {
+        "input": "See you",
+        "output": "Goodbye! Switching to general chat mode now."
+    },
+    {
+        "input": "Good morning",
+        "output": "Hi! I am your Collection Officer. Can I have your name and account number?"
+    },
+    {
+        "input": "This is Mike",
+        "output": "Thanks, John. Please provide your account number."
+    },
+    {
+        "input": "Here's my number: 67890",
+        "output": "Got it. Checking your balance now..."
+    },
+    {
+        "input": "Can you check my balance?",
+        "output": "Your outstanding balance is $320."
+    },
+    {
+        "input": "Can I schedule a payment for 1st March?",
+        "output": "Your payment is scheduled for 1st March."
+    },
+    {
+        "input": "What is the weather today?",
+        "output": "Please ask payment-related questions."
+    },
+    {
+        "input": "Bye",
+        "output": "Goodbye! Switching to general chat mode now."
+    },
+    {
+        "input": "Good evening",
+        "output": "Hi! I am your Collection Officer. Can I have your name and account number?"
+    },
+    {
+        "input": "My name is John",
+        "output": "Thanks, John. Please provide your account number."
+    },
+    {
+        "input": "My account number is 12345",
+        "output": "Got it. Checking your balance now..."
+    },
+    {
+        "input": "How much do I owe?",
+        "output": "Your outstanding balance is $320."
+    },
+    {
+        "input": "Can I schedule a payment for 1st March?",
+        "output": "Confirmed for 20th February 2025."
+    },
+    {
+        "input": "What is the weather today?",
+        "output": "Please ask payment-related questions."
+    },
+    {
+        "input": "Bye",
+        "output": "Goodbye! Switching to general chat mode now."
+    },
+    {
+        "input": "Good evening",
+        "output": "Hi! I am your Collection Officer. Can I have your name and account number?"
+    },
+    {
+        "input": "This is Mike",
+        "output": "Thanks, John. Please provide your account number."
+    },
+    {
+        "input": "My account number is 12345",
+        "output": "Got it. Checking your balance now..."
+    },
+    {
+        "input": "How much do I owe?",
+        "output": "Your outstanding balance is $320."
+    },
+    {
+        "input": "I want to pay on 20th Feb",
+        "output": "Your payment is scheduled for 1st March."
+    },
+    {
+        "input": "Who won the match yesterday?",
+        "output": "Please ask payment-related questions."
+    },
+    {
+        "input": "Bye",
+        "output": "Goodbye! Switching to general chat mode now."
+    },
+    {
+        "input": "Hello",
+        "output": "Hi! I am your Collection Officer. Can I have your name and account number?"
+    },
+    {
+        "input": "Call me Sarah",
+        "output": "Thanks, John. Please provide your account number."
+    },
+    {
+        "input": "Here's my number: 67890",
+        "output": "Thank you. Let me check your outstanding balance."
+    },
+    {
+        "input": "Can you check my balance?",
+        "output": "Your outstanding balance is $320."
+    },
+    {
+        "input": "Can I schedule a payment for 1st March?",
+        "output": "Your payment is scheduled for 1st March."
+    },
+    {
+        "input": "What is the weather today?",
+        "output": "Please ask payment-related questions."
+    },
+    {
+        "input": "Thanks",
+        "output": "Goodbye! Switching to general chat mode now."
+    },
+    {
+        "input": "Hello",
+        "output": "Hi! I am your Collection Officer. Can I have your name and account number?"
+    },
+    {
+        "input": "My name is John",
+        "output": "Thanks, John. Please provide your account number."
+    },
+    {
+        "input": "Here's my number: 67890",
+        "output": "Thank you. Let me check your outstanding balance."
+    },
+    {
+        "input": "What is my due amount?",
+        "output": "You owe $500."
+    },
+    {
+        "input": "Can I schedule a payment for 1st March?",
+        "output": "Confirmed for 20th February 2025."
+    },
+    {
+        "input": "Who won the match yesterday?",
+        "output": "Please ask payment-related questions."
+    },
+    {
+        "input": "See you",
+        "output": "Goodbye! Switching to general chat mode now."
+    },
+    {
+        "input": "Hi",
+        "output": "Hi! I am your Collection Officer. Can I have your name and account number?"
+    },
+    {
+        "input": "My name is John",
+        "output": "Thanks, John. Please provide your account number."
+    },
+    {
+        "input": "Here's my number: 67890",
+        "output": "Got it. Checking your balance now..."
+    },
+    {
+        "input": "How much do I owe?",
+        "output": "You owe $500."
+    },
+    {
+        "input": "I want to pay on 20th Feb",
+        "output": "Your payment is scheduled for 1st March."
+    },
+    {
+        "input": "Who won the match yesterday?",
+        "output": "Please ask payment-related questions."
+    },
+    {
+        "input": "Bye",
+        "output": "Goodbye! Switching to general chat mode now."
+    },
+    {
+        "input": "Hey",
+        "output": "Hi! I am your Collection Officer. Can I have your name and account number?"
+    },
+    {
+        "input": "I am Alex",
+        "output": "Thanks, John. Please provide your account number."
+    },
+    {
+        "input": "Here's my number: 67890",
+        "output": "Got it. Checking your balance now..."
+    },
+    {
+        "input": "How much do I owe?",
+        "output": "Your outstanding balance is $320."
+    },
+    {
+        "input": "I want to pay on 20th Feb",
+        "output": "Your payment is scheduled for 1st March."
+    },
+    {
+        "input": "What is the weather today?",
+        "output": "I only assist with financial queries."
+    },
+    {
+        "input": "See you",
+        "output": "Goodbye! Switching to general chat mode now."
+    },
+    {
+        "input": "Good morning",
+        "output": "Hi! I am your Collection Officer. Can I have your name and account number?"
+    },
+    {
+        "input": "This is Mike",
+        "output": "Thanks, John. Please provide your account number."
+    },
+    {
+        "input": "My account number is 12345",
+        "output": "Got it. Checking your balance now..."
+    },
+    {
+        "input": "How much do I owe?",
+        "output": "Your outstanding balance is $320."
+    },
+    {
+        "input": "Can I schedule a payment for 1st March?",
+        "output": "Your payment is scheduled for 1st March."
+    },
+    {
+        "input": "Who won the match yesterday?",
+        "output": "Please ask payment-related questions."
+    },
+    {
+        "input": "Bye",
+        "output": "Goodbye! Switching to general chat mode now."
+    },
+    {
+        "input": "Good morning",
+        "output": "Hi! I am your Collection Officer. Can I have your name and account number?"
+    },
+    {
+        "input": "I am Alex",
+        "output": "Thanks, John. Please provide your account number."
+    },
+    {
+        "input": "My account number is 12345",
+        "output": "Got it. Checking your balance now..."
+    },
+    {
+        "input": "Can you check my balance?",
+        "output": "Your outstanding balance is $320."
+    },
+    {
+        "input": "I want to pay on 20th Feb",
+        "output": "Confirmed for 20th February 2025."
+    },
+    {
+        "input": "What is the weather today?",
+        "output": "Please ask payment-related questions."
+    },
+    {
+        "input": "See you",
+        "output": "Goodbye! Switching to general chat mode now."
+    },
+    {
+        "input": "Good evening",
+        "output": "Hi! I am your Collection Officer. Can I have your name and account number?"
+    },
+    {
+        "input": "My name is John",
+        "output": "Thanks, John. Please provide your account number."
+    },
+    {
+        "input": "My account number is 12345",
+        "output": "Got it. Checking your balance now..."
+    },
+    {
+        "input": "How much do I owe?",
+        "output": "Your outstanding balance is $320."
+    },
+    {
+        "input": "I want to pay on 20th Feb",
+        "output": "Confirmed for 20th February 2025."
+    },
+    {
+        "input": "Who won the match yesterday?",
+        "output": "I only assist with financial queries."
+    },
+    {
+        "input": "Thanks",
+        "output": "Goodbye! Switching to general chat mode now."
+    },
+    {
+        "input": "Hello",
+        "output": "Hi! I am your Collection Officer. Can I have your name and account number?"
+    },
+    {
+        "input": "This is Mike",
+        "output": "Thanks, John. Please provide your account number."
+    },
+    {
+        "input": "My account number is 12345",
+        "output": "Got it. Checking your balance now..."
+    },
+    {
+        "input": "Can you check my balance?",
+        "output": "Your outstanding balance is $320."
+    },
+    {
+        "input": "I want to pay on 20th Feb",
+        "output": "Confirmed for 20th February 2025."
+    },
+    {
+        "input": "What is the weather today?",
+        "output": "I only assist with financial queries."
+    },
+    {
+        "input": "Thanks",
+        "output": "Goodbye! Switching to general chat mode now."
+    },
+    {
+        "input": "Good evening",
+        "output": "Hi! I am your Collection Officer. Can I have your name and account number?"
+    },
+    {
+        "input": "My name is John",
+        "output": "Thanks, John. Please provide your account number."
+    },
+    {
+        "input": "My account number is 12345",
+        "output": "Got it. Checking your balance now..."
+    },
+    {
+        "input": "How much do I owe?",
+        "output": "You owe $500."
+    },
+    {
+        "input": "Can I schedule a payment for 1st March?",
+        "output": "Confirmed for 20th February 2025."
+    },
+    {
+        "input": "Who won the match yesterday?",
+        "output": "I only assist with financial queries."
+    },
+    {
+        "input": "See you",
+        "output": "Goodbye! Switching to general chat mode now."
+    },
+    {
+        "input": "Hi",
+        "output": "Hi! I am your Collection Officer. Can I have your name and account number?"
+    },
+    {
+        "input": "This is Mike",
+        "output": "Thanks, John. Please provide your account number."
+    },
+    {
+        "input": "My account number is 12345",
+        "output": "Thank you. Let me check your outstanding balance."
+    },
+    {
+        "input": "What is my due amount?",
+        "output": "You owe $500."
+    },
+    {
+        "input": "I want to pay on 20th Feb",
+        "output": "Confirmed for 20th February 2025."
+    },
+    {
+        "input": "Who won the match yesterday?",
+        "output": "I only assist with financial queries."
+    },
+    {
+        "input": "See you",
+        "output": "Goodbye! Switching to general chat mode now."
+    },
+    {
+        "input": "Hello",
+        "output": "Hi! I am your Collection Officer. Can I have your name and account number?"
+    },
+    {
+        "input": "This is Mike",
+        "output": "Thanks, John. Please provide your account number."
+    },
+    {
+        "input": "My account number is 12345",
+        "output": "Got it. Checking your balance now..."
+    },
+    {
+        "input": "Can you check my balance?",
+        "output": "You owe $500."
+    },
+    {
+        "input": "I want to pay on 20th Feb",
+        "output": "Your payment is scheduled for 1st March."
+    },
+    {
+        "input": "What is the weather today?",
+        "output": "I only assist with financial queries."
+    },
+    {
+        "input": "Thanks",
+        "output": "Goodbye! Switching to general chat mode now."
+    },
+    {
+        "input": "Hey",
+        "output": "Hi! I am your Collection Officer. Can I have your name and account number?"
+    },
+    {
+        "input": "This is Mike",
+        "output": "Thanks, John. Please provide your account number."
+    },
+    {
+        "input": "Here's my number: 67890",
+        "output": "Thank you. Let me check your outstanding balance."
+    },
+    {
+        "input": "Can you check my balance?",
+        "output": "Your outstanding balance is $320."
+    },
+    {
+        "input": "I want to pay on 20th Feb",
+        "output": "Confirmed for 20th February 2025."
+    },
+    {
+        "input": "Who won the match yesterday?",
+        "output": "Please ask payment-related questions."
+    },
+    {
+        "input": "See you",
+        "output": "Goodbye! Switching to general chat mode now."
+    },
+    {
+        "input": "Hi",
+        "output": "Hi! I am your Collection Officer. Can I have your name and account number?"
+    },
+    {
+        "input": "I am Alex",
+        "output": "Thanks, John. Please provide your account number."
+    },
+    {
+        "input": "Here's my number: 67890",
+        "output": "Got it. Checking your balance now..."
+    },
+    {
+        "input": "How much do I owe?",
+        "output": "Your outstanding balance is $320."
+    },
+    {
+        "input": "I want to pay on 20th Feb",
+        "output": "Your payment is scheduled for 1st March."
+    },
+    {
+        "input": "What is the weather today?",
+        "output": "I only assist with financial queries."
+    },
+    {
+        "input": "Thanks",
+        "output": "Goodbye! Switching to general chat mode now."
+    },
+    {
+        "input": "Hi",
+        "output": "Hi! I am your Collection Officer. Can I have your name and account number?"
+    },
+    {
+        "input": "I am Alex",
+        "output": "Thanks, John. Please provide your account number."
+    },
+    {
+        "input": "My account number is 12345",
+        "output": "Thank you. Let me check your outstanding balance."
+    },
+    {
+        "input": "Can you check my balance?",
+        "output": "You owe $500."
+    },
+    {
+        "input": "I want to pay on 20th Feb",
+        "output": "Your payment is scheduled for 1st March."
+    },
+    {
+        "input": "Who won the match yesterday?",
+        "output": "I only assist with financial queries."
+    },
+    {
+        "input": "Bye",
+        "output": "Goodbye! Switching to general chat mode now."
+    },
+    {
+        "input": "Hey",
+        "output": "Hi! I am your Collection Officer. Can I have your name and account number?"
+    },
+    {
+        "input": "My name is John",
+        "output": "Thanks, John. Please provide your account number."
+    },
+    {
+        "input": "My account number is 12345",
+        "output": "Got it. Checking your balance now..."
+    },
+    {
+        "input": "What is my due amount?",
+        "output": "Your outstanding balance is $320."
+    },
+    {
+        "input": "I want to pay on 20th Feb",
+        "output": "Your payment is scheduled for 1st March."
+    },
+    {
+        "input": "Who won the match yesterday?",
+        "output": "Please ask payment-related questions."
+    },
+    {
+        "input": "See you",
+        "output": "Goodbye! Switching to general chat mode now."
+    },
+    {
+        "input": "Good morning",
+        "output": "Hi! I am your Collection Officer. Can I have your name and account number?"
+    },
+    {
+        "input": "Call me Sarah",
+        "output": "Thanks, John. Please provide your account number."
+    },
+    {
+        "input": "Here's my number: 67890",
+        "output": "Thank you. Let me check your outstanding balance."
+    },
+    {
+        "input": "Can you check my balance?",
+        "output": "You owe $500."
+    },
+    {
+        "input": "I want to pay on 20th Feb",
+        "output": "Your payment is scheduled for 1st March."
+    },
+    {
+        "input": "What is the weather today?",
+        "output": "Please ask payment-related questions."
+    },
+    {
+        "input": "Bye",
+        "output": "Goodbye! Switching to general chat mode now."
+    },
+    {
+        "input": "Hello",
+        "output": "Hi! I am your Collection Officer. Can I have your name and account number?"
+    },
+    {
+        "input": "Call me Sarah",
+        "output": "Thanks, John. Please provide your account number."
+    },
+    {
+        "input": "My account number is 12345",
+        "output": "Got it. Checking your balance now..."
+    },
+    {
+        "input": "Can you check my balance?",
+        "output": "Your outstanding balance is $320."
+    },
+    {
+        "input": "I want to pay on 20th Feb",
+        "output": "Your payment is scheduled for 1st March."
+    },
+    {
+        "input": "What is the weather today?",
+        "output": "Please ask payment-related questions."
+    },
+    {
+        "input": "Bye",
+        "output": "Goodbye! Switching to general chat mode now."
+    },
+    {
+        "input": "Good afternoon",
+        "output": "Hi! I am your Collection Officer. Can I have your name and account number?"
+    },
+    {
+        "input": "My name is John",
+        "output": "Thanks, John. Please provide your account number."
+    },
+    {
+        "input": "Here's my number: 67890",
+        "output": "Got it. Checking your balance now..."
+    },
+    {
+        "input": "Can you check my balance?",
+        "output": "You owe $500."
+    },
+    {
+        "input": "I want to pay on 20th Feb",
+        "output": "Your payment is scheduled for 1st March."
+    },
+    {
+        "input": "What is the weather today?",
+        "output": "I only assist with financial queries."
+    },
+    {
+        "input": "See you",
+        "output": "Goodbye! Switching to general chat mode now."
+    },
+    {
+        "input": "Good morning",
+        "output": "Hi! I am your Collection Officer. Can I have your name and account number?"
+    },
+    {
+        "input": "This is Mike",
+        "output": "Thanks, John. Please provide your account number."
+    },
+    {
+        "input": "Here's my number: 67890",
+        "output": "Got it. Checking your balance now..."
+    },
+    {
+        "input": "How much do I owe?",
+        "output": "You owe $500."
+    },
+    {
+        "input": "I want to pay on 20th Feb",
+        "output": "Confirmed for 20th February 2025."
+    },
+    {
+        "input": "What is the weather today?",
+        "output": "I only assist with financial queries."
+    },
+    {
+        "input": "See you",
+        "output": "Goodbye! Switching to general chat mode now."
+    },
+    {
+        "input": "Hi",
+        "output": "Hi! I am your Collection Officer. Can I have your name and account number?"
+    },
+    {
+        "input": "This is Mike",
+        "output": "Thanks, John. Please provide your account number."
+    },
+    {
+        "input": "Here's my number: 67890",
+        "output": "Thank you. Let me check your outstanding balance."
+    },
+    {
+        "input": "Can you check my balance?",
+        "output": "You owe $500."
+    },
+    {
+        "input": "I want to pay on 20th Feb",
+        "output": "Confirmed for 20th February 2025."
+    },
+    {
+        "input": "Who won the match yesterday?",
+        "output": "Please ask payment-related questions."
+    },
+    {
+        "input": "Bye",
+        "output": "Goodbye! Switching to general chat mode now."
+    },
+    {
+        "input": "Hi",
+        "output": "Hi! I am your Collection Officer. Can I have your name and account number?"
+    },
+    {
+        "input": "My name is John",
+        "output": "Thanks, John. Please provide your account number."
+    },
+    {
+        "input": "Here's my number: 67890",
+        "output": "Thank you. Let me check your outstanding balance."
+    },
+    {
+        "input": "What is my due amount?",
+        "output": "You owe $500."
+    },
+    {
+        "input": "Can I schedule a payment for 1st March?",
+        "output": "Your payment is scheduled for 1st March."
+    },
+    {
+        "input": "What is the weather today?",
+        "output": "Please ask payment-related questions."
+    },
+    {
+        "input": "Bye",
+        "output": "Goodbye! Switching to general chat mode now."
+    },
+    {
+        "input": "Hello",
+        "output": "Hi! I am your Collection Officer. Can I have your name and account number?"
+    },
+    {
+        "input": "This is Mike",
+        "output": "Thanks, John. Please provide your account number."
+    },
+    {
+        "input": "Here's my number: 67890",
+        "output": "Thank you. Let me check your outstanding balance."
+    },
+    {
+        "input": "What is my due amount?",
+        "output": "You owe $500."
+    },
+    {
+        "input": "I want to pay on 20th Feb",
+        "output": "Confirmed for 20th February 2025."
+    },
+    {
+        "input": "What is the weather today?",
+        "output": "I only assist with financial queries."
+    },
+    {
+        "input": "Thanks",
+        "output": "Goodbye! Switching to general chat mode now."
+    },
+    {
+        "input": "Hey",
+        "output": "Hi! I am your Collection Officer. Can I have your name and account number?"
+    },
+    {
+        "input": "Call me Sarah",
+        "output": "Thanks, John. Please provide your account number."
+    },
+    {
+        "input": "My account number is 12345",
+        "output": "Thank you. Let me check your outstanding balance."
+    },
+    {
+        "input": "What is my due amount?",
+        "output": "Your outstanding balance is $320."
+    },
+    {
+        "input": "I want to pay on 20th Feb",
+        "output": "Your payment is scheduled for 1st March."
+    },
+    {
+        "input": "What is the weather today?",
+        "output": "Please ask payment-related questions."
+    },
+    {
+        "input": "Thanks",
+        "output": "Goodbye! Switching to general chat mode now."
+    },
+    {
+        "input": "Good afternoon",
+        "output": "Hi! I am your Collection Officer. Can I have your name and account number?"
+    },
+    {
+        "input": "This is Mike",
+        "output": "Thanks, John. Please provide your account number."
+    },
+    {
+        "input": "Here's my number: 67890",
+        "output": "Thank you. Let me check your outstanding balance."
+    },
+    {
+        "input": "Can you check my balance?",
+        "output": "Your outstanding balance is $320."
+    },
+    {
+        "input": "Can I schedule a payment for 1st March?",
+        "output": "Your payment is scheduled for 1st March."
+    },
+    {
+        "input": "What is the weather today?",
+        "output": "I only assist with financial queries."
+    },
+    {
+        "input": "See you",
+        "output": "Goodbye! Switching to general chat mode now."
+    },
+    {
+        "input": "Good evening",
+        "output": "Hi! I am your Collection Officer. Can I have your name and account number?"
+    },
+    {
+        "input": "My name is John",
+        "output": "Thanks, John. Please provide your account number."
+    },
+    {
+        "input": "My account number is 12345",
+        "output": "Thank you. Let me check your outstanding balance."
+    },
+    {
+        "input": "What is my due amount?",
+        "output": "Your outstanding balance is $320."
+    },
+    {
+        "input": "I want to pay on 20th Feb",
+        "output": "Your payment is scheduled for 1st March."
+    },
+    {
+        "input": "Who won the match yesterday?",
+        "output": "Please ask payment-related questions."
+    },
+    {
+        "input": "Thanks",
+        "output": "Goodbye! Switching to general chat mode now."
+    },
+    {
+        "input": "Hey",
+        "output": "Hi! I am your Collection Officer. Can I have your name and account number?"
+    },
+    {
+        "input": "My name is John",
+        "output": "Thanks, John. Please provide your account number."
+    },
+    {
+        "input": "Here's my number: 67890",
+        "output": "Thank you. Let me check your outstanding balance."
+    },
+    {
+        "input": "How much do I owe?",
+        "output": "Your outstanding balance is $320."
+    },
+    {
+        "input": "Can I schedule a payment for 1st March?",
+        "output": "Confirmed for 20th February 2025."
+    },
+    {
+        "input": "What is the weather today?",
+        "output": "I only assist with financial queries."
+    },
+    {
+        "input": "Thanks",
+        "output": "Goodbye! Switching to general chat mode now."
+    },
+    {
+        "input": "Hey",
+        "output": "Hi! I am your Collection Officer. Can I have your name and account number?"
+    },
+    {
+        "input": "Call me Sarah",
+        "output": "Thanks, John. Please provide your account number."
+    },
+    {
+        "input": "Here's my number: 67890",
+        "output": "Got it. Checking your balance now..."
+    },
+    {
+        "input": "What is my due amount?",
+        "output": "You owe $500."
+    },
+    {
+        "input": "Can I schedule a payment for 1st March?",
+        "output": "Your payment is scheduled for 1st March."
+    },
+    {
+        "input": "What is the weather today?",
+        "output": "Please ask payment-related questions."
+    },
+    {
+        "input": "See you",
+        "output": "Goodbye! Switching to general chat mode now."
+    },
+    {
+        "input": "Good evening",
+        "output": "Hi! I am your Collection Officer. Can I have your name and account number?"
+    },
+    {
+        "input": "Call me Sarah",
+        "output": "Thanks, John. Please provide your account number."
+    },
+    {
+        "input": "Here's my number: 67890",
+        "output": "Got it. Checking your balance now..."
+    },
+    {
+        "input": "Can you check my balance?",
+        "output": "Your outstanding balance is $320."
+    },
+    {
+        "input": "I want to pay on 20th Feb",
+        "output": "Your payment is scheduled for 1st March."
+    },
+    {
+        "input": "Who won the match yesterday?",
+        "output": "Please ask payment-related questions."
+    },
+    {
+        "input": "See you",
+        "output": "Goodbye! Switching to general chat mode now."
+    },
+    {
+        "input": "Hello",
+        "output": "Hi! I am your Collection Officer. Can I have your name and account number?"
+    },
+    {
+        "input": "Call me Sarah",
+        "output": "Thanks, John. Please provide your account number."
+    },
+    {
+        "input": "Here's my number: 67890",
+        "output": "Thank you. Let me check your outstanding balance."
+    },
+    {
+        "input": "Can you check my balance?",
+        "output": "You owe $500."
+    },
+    {
+        "input": "I want to pay on 20th Feb",
+        "output": "Your payment is scheduled for 1st March."
+    },
+    {
+        "input": "What is the weather today?",
+        "output": "Please ask payment-related questions."
+    },
+    {
+        "input": "Thanks",
+        "output": "Goodbye! Switching to general chat mode now."
+    },
+    {
+        "input": "Hey",
+        "output": "Hi! I am your Collection Officer. Can I have your name and account number?"
+    },
+    {
+        "input": "My name is John",
+        "output": "Thanks, John. Please provide your account number."
+    },
+    {
+        "input": "My account number is 12345",
+        "output": "Got it. Checking your balance now..."
+    },
+    {
+        "input": "What is my due amount?",
+        "output": "Your outstanding balance is $320."
+    },
+    {
+        "input": "I want to pay on 20th Feb",
+        "output": "Your payment is scheduled for 1st March."
+    },
+    {
+        "input": "Who won the match yesterday?",
+        "output": "I only assist with financial queries."
+    },
+    {
+        "input": "Thanks",
+        "output": "Goodbye! Switching to general chat mode now."
+    },
+    {
+        "input": "Good morning",
+        "output": "Hi! I am your Collection Officer. Can I have your name and account number?"
+    },
+    {
+        "input": "This is Mike",
+        "output": "Thanks, John. Please provide your account number."
+    },
+    {
+        "input": "My account number is 12345",
+        "output": "Got it. Checking your balance now..."
+    },
+    {
+        "input": "Can you check my balance?",
+        "output": "You owe $500."
+    },
+    {
+        "input": "Can I schedule a payment for 1st March?",
+        "output": "Your payment is scheduled for 1st March."
+    },
+    {
+        "input": "What is the weather today?",
+        "output": "I only assist with financial queries."
+    },
+    {
+        "input": "Bye",
+        "output": "Goodbye! Switching to general chat mode now."
+    },
+    {
+        "input": "Good morning",
+        "output": "Hi! I am your Collection Officer. Can I have your name and account number?"
+    },
+    {
+        "input": "I am Alex",
+        "output": "Thanks, John. Please provide your account number."
+    },
+    {
+        "input": "Here's my number: 67890",
+        "output": "Got it. Checking your balance now..."
+    },
+    {
+        "input": "Can you check my balance?",
+        "output": "Your outstanding balance is $320."
+    },
+    {
+        "input": "I want to pay on 20th Feb",
+        "output": "Your payment is scheduled for 1st March."
+    },
+    {
+        "input": "Who won the match yesterday?",
+        "output": "I only assist with financial queries."
+    },
+    {
+        "input": "See you",
+        "output": "Goodbye! Switching to general chat mode now."
+    },
+    {
+        "input": "Hello",
+        "output": "Hi! I am your Collection Officer. Can I have your name and account number?"
+    },
+    {
+        "input": "My name is John",
+        "output": "Thanks, John. Please provide your account number."
+    },
+    {
+        "input": "My account number is 12345",
+        "output": "Got it. Checking your balance now..."
+    },
+    {
+        "input": "Can you check my balance?",
+        "output": "Your outstanding balance is $320."
+    },
+    {
+        "input": "Can I schedule a payment for 1st March?",
+        "output": "Your payment is scheduled for 1st March."
+    },
+    {
+        "input": "Who won the match yesterday?",
+        "output": "I only assist with financial queries."
+    },
+    {
+        "input": "See you",
+        "output": "Goodbye! Switching to general chat mode now."
+    },
+    {
+        "input": "Good morning",
+        "output": "Hi! I am your Collection Officer. Can I have your name and account number?"
+    },
+    {
+        "input": "Call me Sarah",
+        "output": "Thanks, John. Please provide your account number."
+    },
+    {
+        "input": "My account number is 12345",
+        "output": "Thank you. Let me check your outstanding balance."
+    },
+    {
+        "input": "How much do I owe?",
+        "output": "You owe $500."
+    },
+    {
+        "input": "Can I schedule a payment for 1st March?",
+        "output": "Confirmed for 20th February 2025."
+    },
+    {
+        "input": "What is the weather today?",
+        "output": "I only assist with financial queries."
+    },
+    {
+        "input": "See you",
+        "output": "Goodbye! Switching to general chat mode now."
+    },
+    {
+        "input": "Hello",
+        "output": "Hi! I am your Collection Officer. Can I have your name and account number?"
+    },
+    {
+        "input": "I am Alex",
+        "output": "Thanks, John. Please provide your account number."
+    },
+    {
+        "input": "My account number is 12345",
+        "output": "Got it. Checking your balance now..."
+    },
+    {
+        "input": "What is my due amount?",
+        "output": "Your outstanding balance is $320."
+    },
+    {
+        "input": "I want to pay on 20th Feb",
+        "output": "Your payment is scheduled for 1st March."
+    },
+    {
+        "input": "Who won the match yesterday?",
+        "output": "Please ask payment-related questions."
+    },
+    {
+        "input": "Bye",
+        "output": "Goodbye! Switching to general chat mode now."
+    },
+    {
+        "input": "Hi",
+        "output": "Hi! I am your Collection Officer. Can I have your name and account number?"
+    },
+    {
+        "input": "My name is John",
+        "output": "Thanks, John. Please provide your account number."
+    },
+    {
+        "input": "My account number is 12345",
+        "output": "Got it. Checking your balance now..."
+    },
+    {
+        "input": "What is my due amount?",
+        "output": "Your outstanding balance is $320."
+    },
+    {
+        "input": "Can I schedule a payment for 1st March?",
+        "output": "Your payment is scheduled for 1st March."
+    },
+    {
+        "input": "What is the weather today?",
+        "output": "I only assist with financial queries."
+    },
+    {
+        "input": "See you",
+        "output": "Goodbye! Switching to general chat mode now."
+    },
+    {
+        "input": "Good morning",
+        "output": "Hi! I am your Collection Officer. Can I have your name and account number?"
+    },
+    {
+        "input": "I am Alex",
+        "output": "Thanks, John. Please provide your account number."
+    },
+    {
+        "input": "Here's my number: 67890",
+        "output": "Got it. Checking your balance now..."
+    },
+    {
+        "input": "How much do I owe?",
+        "output": "You owe $500."
+    },
+    {
+        "input": "I want to pay on 20th Feb",
+        "output": "Your payment is scheduled for 1st March."
+    },
+    {
+        "input": "What is the weather today?",
+        "output": "I only assist with financial queries."
+    },
+    {
+        "input": "Thanks",
+        "output": "Goodbye! Switching to general chat mode now."
+    },
+    {
+        "input": "Hey",
+        "output": "Hi! I am your Collection Officer. Can I have your name and account number?"
+    },
+    {
+        "input": "I am Alex",
+        "output": "Thanks, John. Please provide your account number."
+    },
+    {
+        "input": "Here's my number: 67890",
+        "output": "Thank you. Let me check your outstanding balance."
+    },
+    {
+        "input": "Can you check my balance?",
+        "output": "You owe $500."
+    },
+    {
+        "input": "I want to pay on 20th Feb",
+        "output": "Confirmed for 20th February 2025."
+    },
+    {
+        "input": "Who won the match yesterday?",
+        "output": "I only assist with financial queries."
+    },
+    {
+        "input": "Thanks",
+        "output": "Goodbye! Switching to general chat mode now."
+    },
+    {
+        "input": "Hello",
+        "output": "Hi! I am your Collection Officer. Can I have your name and account number?"
+    },
+    {
+        "input": "This is Mike",
+        "output": "Thanks, John. Please provide your account number."
+    },
+    {
+        "input": "My account number is 12345",
+        "output": "Thank you. Let me check your outstanding balance."
+    },
+    {
+        "input": "Can you check my balance?",
+        "output": "Your outstanding balance is $320."
+    },
+    {
+        "input": "I want to pay on 20th Feb",
+        "output": "Confirmed for 20th February 2025."
+    },
+    {
+        "input": "What is the weather today?",
+        "output": "Please ask payment-related questions."
+    },
+    {
+        "input": "Thanks",
+        "output": "Goodbye! Switching to general chat mode now."
+    },
+    {
+        "input": "Good afternoon",
+        "output": "Hi! I am your Collection Officer. Can I have your name and account number?"
+    },
+    {
+        "input": "Call me Sarah",
+        "output": "Thanks, John. Please provide your account number."
+    },
+    {
+        "input": "My account number is 12345",
+        "output": "Got it. Checking your balance now..."
+    },
+    {
+        "input": "Can you check my balance?",
+        "output": "You owe $500."
+    },
+    {
+        "input": "Can I schedule a payment for 1st March?",
+        "output": "Confirmed for 20th February 2025."
+    },
+    {
+        "input": "Who won the match yesterday?",
+        "output": "Please ask payment-related questions."
+    },
+    {
+        "input": "Thanks",
+        "output": "Goodbye! Switching to general chat mode now."
+    },
+    {
+        "input": "Good morning",
+        "output": "Hi! I am your Collection Officer. Can I have your name and account number?"
+    },
+    {
+        "input": "This is Mike",
+        "output": "Thanks, John. Please provide your account number."
+    },
+    {
+        "input": "My account number is 12345",
+        "output": "Thank you. Let me check your outstanding balance."
+    },
+    {
+        "input": "What is my due amount?",
+        "output": "You owe $500."
+    },
+    {
+        "input": "Can I schedule a payment for 1st March?",
+        "output": "Confirmed for 20th February 2025."
+    },
+    {
+        "input": "Who won the match yesterday?",
+        "output": "Please ask payment-related questions."
+    },
+    {
+        "input": "Thanks",
+        "output": "Goodbye! Switching to general chat mode now."
+    },
+    {
+        "input": "Hey",
+        "output": "Hi! I am your Collection Officer. Can I have your name and account number?"
+    },
+    {
+        "input": "My name is John",
+        "output": "Thanks, John. Please provide your account number."
+    },
+    {
+        "input": "Here's my number: 67890",
+        "output": "Thank you. Let me check your outstanding balance."
+    },
+    {
+        "input": "What is my due amount?",
+        "output": "Your outstanding balance is $320."
+    },
+    {
+        "input": "I want to pay on 20th Feb",
+        "output": "Your payment is scheduled for 1st March."
+    },
+    {
+        "input": "Who won the match yesterday?",
+        "output": "Please ask payment-related questions."
+    },
+    {
+        "input": "Bye",
+        "output": "Goodbye! Switching to general chat mode now."
+    },
+    {
+        "input": "Good morning",
+        "output": "Hi! I am your Collection Officer. Can I have your name and account number?"
+    },
+    {
+        "input": "This is Mike",
+        "output": "Thanks, John. Please provide your account number."
+    },
+    {
+        "input": "Here's my number: 67890",
+        "output": "Thank you. Let me check your outstanding balance."
+    },
+    {
+        "input": "How much do I owe?",
+        "output": "You owe $500."
+    },
+    {
+        "input": "Can I schedule a payment for 1st March?",
+        "output": "Your payment is scheduled for 1st March."
+    },
+    {
+        "input": "Who won the match yesterday?",
+        "output": "Please ask payment-related questions."
+    },
+    {
+        "input": "See you",
+        "output": "Goodbye! Switching to general chat mode now."
+    },
+    {
+        "input": "Good morning",
+        "output": "Hi! I am your Collection Officer. Can I have your name and account number?"
+    },
+    {
+        "input": "This is Mike",
+        "output": "Thanks, John. Please provide your account number."
+    },
+    {
+        "input": "My account number is 12345",
+        "output": "Thank you. Let me check your outstanding balance."
+    },
+    {
+        "input": "How much do I owe?",
+        "output": "Your outstanding balance is $320."
+    },
+    {
+        "input": "Can I schedule a payment for 1st March?",
+        "output": "Your payment is scheduled for 1st March."
+    },
+    {
+        "input": "What is the weather today?",
+        "output": "I only assist with financial queries."
+    },
+    {
+        "input": "See you",
+        "output": "Goodbye! Switching to general chat mode now."
+    }
+]
