@@ -65,8 +65,9 @@ Copy code
 ```bash
 git clone https://github.com/<your-username>/DeepSeekLLM-Chatbot.git
 cd DeepSeekLLM-Chatbot
+```
 2️⃣ Backend Setup (Flask)
-bash
+```bash
 Copy code
 cd backend
 python -m venv venv
@@ -76,7 +77,7 @@ venv\Scripts\activate          # For Windows
 pip install -r requirements.txt
 python app.py
 Your Flask backend will start on:
-
+```
 🖥️ http://localhost:5000
 
 3️⃣ Frontend Setup (React)
