@@ -136,7 +136,7 @@ cd DeepSeekLLM-Chatbot
 
 
 
-2️⃣ Backend Setup (Flask)
+### 2️⃣ Backend Setup (Flask)
 
 bash
 
@@ -148,7 +148,7 @@ python -m venv venv
 
 venv\Scripts\activate          # For Windows
 
-# or
+or
 
 source venv/bin/activate       # For Mac/Linux
 
@@ -164,7 +164,7 @@ Your Flask backend will start on:
 
 
 
-3️⃣ Frontend Setup (React)
+### 3️⃣ Frontend Setup (React)
 
 Open a new terminal and run:
 
@@ -186,7 +186,7 @@ Your React frontend will run on:
 
 
 
-4️⃣ Connect Frontend & Backend
+### 4️⃣ Connect Frontend & Backend
 
 Make sure your frontend’s API base URL (in frontend/src/config.js or a similar file) matches:
 
