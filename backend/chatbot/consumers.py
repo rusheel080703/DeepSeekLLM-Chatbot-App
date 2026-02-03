@@ -6,7 +6,7 @@ from transformers import AutoModelForCausalLM, AutoTokenizer
 import torch
 
 # Use a smaller model for faster load times (e.g., Ministral-3B-Instruct)
-MODEL_ID = "ministral/Ministral-3b-instruct"  # Update this if needed
+MODEL_ID = "mistralai/Mistral-7B-Instruct-v0.3"  # Update this if needed
 # Note: The use_auth_token argument is deprecated; you may replace it with token=YOUR_TOKEN if necessary.
 tokenizer = AutoTokenizer.from_pretrained(MODEL_ID, use_auth_token=True)
 model = AutoModelForCausalLM.from_pretrained(MODEL_ID, use_auth_token=True)
