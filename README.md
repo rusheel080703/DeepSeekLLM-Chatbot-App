@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# ⚡ Full-Stack Generative AI Platform
+# ⚡ ResolveAI: Intelligent Debt Recovery Agent
 ### Real-Time LLM Inference with Parameter-Efficient Fine-Tuning
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue?style=for-the-badge&logo=python)](https://www.python.org/)
